@@ -1,0 +1,1009 @@
+Region,Date,Frequency,Unemployment Rate,Employed,Labour Participation Rate,Zone,Month,Year,Period
+Andhra Pradesh,2019-01-31,Monthly,4.24,46669653.0,47.71,South,1,2019,1 Pre-COVID
+Andhra Pradesh,2019-02-28,Monthly,4.03,44516539.0,45.78,South,2,2019,1 Pre-COVID
+Andhra Pradesh,2019-03-31,Monthly,4.57,44991166.0,46.98,South,3,2019,1 Pre-COVID
+Andhra Pradesh,2019-04-30,Monthly,5.0,45922760.0,47.73,South,4,2019,1 Pre-COVID
+Andhra Pradesh,2019-05-31,Monthly,5.12,45163302.0,47.44,South,5,2019,1 Pre-COVID
+Andhra Pradesh,2019-06-30,Monthly,4.86,44780161.0,46.1,South,6,2019,1 Pre-COVID
+Andhra Pradesh,2019-07-31,Monthly,4.55,44926356.0,46.83,South,7,2019,1 Pre-COVID
+Andhra Pradesh,2019-08-31,Monthly,4.85,44928120.0,46.85,South,8,2019,1 Pre-COVID
+Andhra Pradesh,2019-09-30,Monthly,4.42,46114825.0,47.5,South,9,2019,1 Pre-COVID
+Andhra Pradesh,2019-10-31,Monthly,4.68,46712503.0,47.4,South,10,2019,1 Pre-COVID
+Andhra Pradesh,2019-11-30,Monthly,4.55,44574540.0,46.52,South,11,2019,1 Pre-COVID
+Andhra Pradesh,2019-12-31,Monthly,4.92,46193368.0,48.06,South,12,2019,1 Pre-COVID
+Andhra Pradesh,2020-01-31,Monthly,4.29,45066081.0,47.49333333333333,South,1,2020,1 Pre-COVID
+Andhra Pradesh,2020-02-29,Monthly,4.77,45486976.0,46.92666666666667,South,2,2020,1 Pre-COVID
+Andhra Pradesh,2020-03-31,Monthly,6.4,44007832.0,46.36,South,3,2020,2 First wave / lockdown
+Andhra Pradesh,2020-04-30,Monthly,14.43,37542566.0,43.06,South,4,2020,2 First wave / lockdown
+Andhra Pradesh,2020-05-31,Monthly,12.74,38816355.0,43.68,South,5,2020,2 First wave / lockdown
+Andhra Pradesh,2020-06-30,Monthly,5.88,43564745.0,45.95,South,6,2020,2 First wave / lockdown
+Andhra Pradesh,2020-07-31,Monthly,4.59,45718492.0,46.65,South,7,2020,3 Recovery
+Andhra Pradesh,2020-08-31,Monthly,4.86,45083474.0,47.62,South,8,2020,3 Recovery
+Andhra Pradesh,2020-09-30,Monthly,4.23,46063083.0,47.25,South,9,2020,3 Recovery
+Andhra Pradesh,2020-10-31,Monthly,4.55,46056448.0,47.84,South,10,2020,3 Recovery
+Andhra Pradesh,2020-11-30,Monthly,4.12,46484624.0,48.0,South,11,2020,3 Recovery
+Andhra Pradesh,2020-12-31,Monthly,4.27,44147255.0,45.99,South,12,2020,3 Recovery
+Andhra Pradesh,2021-01-31,Monthly,4.24,46181253.0,47.32,South,1,2021,3 Recovery
+Andhra Pradesh,2021-02-28,Monthly,4.05,46255913.0,47.42,South,2,2021,3 Recovery
+Andhra Pradesh,2021-03-31,Monthly,4.37,45692764.0,47.52,South,3,2021,3 Recovery
+Andhra Pradesh,2021-04-30,Monthly,5.68,43549184.0,46.17,South,4,2021,4 Second wave
+Andhra Pradesh,2021-05-31,Monthly,7.56,42518660.0,45.44,South,5,2021,4 Second wave
+Andhra Pradesh,2021-06-30,Monthly,5.97,44971122.0,46.95,South,6,2021,4 Second wave
+Andhra Pradesh,2021-07-31,Monthly,4.54,44988199.0,46.6,South,7,2021,4 Second wave
+Andhra Pradesh,2021-08-31,Monthly,4.14,43659172.0,45.6,South,8,2021,5 Post second wave
+Andhra Pradesh,2021-09-30,Monthly,3.95,45784766.0,47.53,South,9,2021,5 Post second wave
+Andhra Pradesh,2021-10-31,Monthly,4.145,46916686.0,48.45,South,10,2021,5 Post second wave
+Andhra Pradesh,2021-11-30,Monthly,4.34,44775150.0,46.34,South,11,2021,5 Post second wave
+Andhra Pradesh,2021-12-31,Monthly,4.16,45805768.0,46.83,South,12,2021,5 Post second wave
+Assam,2019-01-31,Monthly,4.55,15296082.0,44.21,North-East,1,2019,1 Pre-COVID
+Assam,2019-02-28,Monthly,4.55,15336840.0,44.06,North-East,2,2019,1 Pre-COVID
+Assam,2019-03-31,Monthly,5.15,15551382.0,44.02,North-East,3,2019,1 Pre-COVID
+Assam,2019-04-30,Monthly,5.11,15020069.0,43.1,North-East,4,2019,1 Pre-COVID
+Assam,2019-05-31,Monthly,5.3,15821753.0,45.2,North-East,5,2019,1 Pre-COVID
+Assam,2019-06-30,Monthly,5.29,15537070.0,45.29,North-East,6,2019,1 Pre-COVID
+Assam,2019-07-31,Monthly,4.79,15014330.0,43.18,North-East,7,2019,1 Pre-COVID
+Assam,2019-08-31,Monthly,4.52,15561392.0,44.56,North-East,8,2019,1 Pre-COVID
+Assam,2019-09-30,Monthly,4.5,15139297.0,43.11,North-East,9,2019,1 Pre-COVID
+Assam,2019-10-31,Monthly,5.23,16360804.0,45.76,North-East,10,2019,1 Pre-COVID
+Assam,2019-11-30,Monthly,5.2,14668506.0,43.13,North-East,11,2019,1 Pre-COVID
+Assam,2019-12-31,Monthly,5.26,14970428.0,43.28,North-East,12,2019,1 Pre-COVID
+Assam,2020-01-31,Monthly,4.75,15484255.0,43.88,North-East,1,2020,1 Pre-COVID
+Assam,2020-02-29,Monthly,5.02,15152222.0,43.86,North-East,2,2020,1 Pre-COVID
+Assam,2020-03-31,Monthly,5.66,14820189.0,42.87,North-East,3,2020,2 First wave / lockdown
+Assam,2020-04-30,Monthly,12.97,12962001.0,40.23,North-East,4,2020,2 First wave / lockdown
+Assam,2020-05-31,Monthly,10.7,12869104.0,39.69,North-East,5,2020,2 First wave / lockdown
+Assam,2020-06-30,Monthly,8.04,15405375.0,45.14,North-East,6,2020,2 First wave / lockdown
+Assam,2020-07-31,Monthly,5.38,15095768.0,43.12,North-East,7,2020,3 Recovery
+Assam,2020-08-31,Monthly,5.49,15099465.0,43.6,North-East,8,2020,3 Recovery
+Assam,2020-09-30,Monthly,4.59,15486533.0,44.48,North-East,9,2020,3 Recovery
+Assam,2020-10-31,Monthly,4.48,15070080.0,42.96,North-East,10,2020,3 Recovery
+Assam,2020-11-30,Monthly,5.22,15379261.0,44.32,North-East,11,2020,3 Recovery
+Assam,2020-12-31,Monthly,5.17,15748409.0,45.2,North-East,12,2020,3 Recovery
+Assam,2021-01-31,Monthly,4.52,15491505.5,45.15,North-East,1,2021,3 Recovery
+Assam,2021-02-28,Monthly,5.11,15234602.0,44.34,North-East,2,2021,3 Recovery
+Assam,2021-03-31,Monthly,4.53,16215075.0,45.54,North-East,3,2021,3 Recovery
+Assam,2021-04-30,Monthly,5.88,15131869.0,43.23,North-East,4,2021,4 Second wave
+Assam,2021-05-31,Monthly,6.62,14530329.0,42.18,North-East,5,2021,4 Second wave
+Assam,2021-06-30,Monthly,5.81,15015088.0,43.56,North-East,6,2021,4 Second wave
+Assam,2021-07-31,Monthly,5.08,15756240.0,45.24,North-East,7,2021,4 Second wave
+Assam,2021-08-31,Monthly,5.18,14648951.0,42.16,North-East,8,2021,5 Post second wave
+Assam,2021-09-30,Monthly,4.46,14951124.0,43.06,North-East,9,2021,5 Post second wave
+Assam,2021-10-31,Monthly,4.53,15547695.0,45.02,North-East,10,2021,5 Post second wave
+Assam,2021-11-30,Monthly,4.72,15242129.0,43.78,North-East,11,2021,5 Post second wave
+Assam,2021-12-31,Monthly,5.23,15708216.0,44.62,North-East,12,2021,5 Post second wave
+Bihar,2019-01-31,Monthly,9.34,18776622.0,37.83,East,1,2019,1 Pre-COVID
+Bihar,2019-02-28,Monthly,9.94,18303612.0,37.18,East,2,2019,1 Pre-COVID
+Bihar,2019-03-31,Monthly,10.16,19951937.0,39.91,East,3,2019,1 Pre-COVID
+Bihar,2019-04-30,Monthly,9.72,18357682.0,37.78,East,4,2019,1 Pre-COVID
+Bihar,2019-05-31,Monthly,9.97,19030896.0,38.24,East,5,2019,1 Pre-COVID
+Bihar,2019-06-30,Monthly,9.79,18080977.0,37.5,East,6,2019,1 Pre-COVID
+Bihar,2019-07-31,Monthly,9.74,18237563.0,37.19,East,7,2019,1 Pre-COVID
+Bihar,2019-08-31,Monthly,9.24,18470792.0,37.93,East,8,2019,1 Pre-COVID
+Bihar,2019-09-30,Monthly,8.9,19457900.0,39.62,East,9,2019,1 Pre-COVID
+Bihar,2019-10-31,Monthly,9.21,20103616.0,39.4,East,10,2019,1 Pre-COVID
+Bihar,2019-11-30,Monthly,9.35,18740233.0,37.72,East,11,2019,1 Pre-COVID
+Bihar,2019-12-31,Monthly,11.24,18013806.0,37.25,East,12,2019,1 Pre-COVID
+Bihar,2020-01-31,Monthly,10.18,18733833.0,38.33,East,1,2020,1 Pre-COVID
+Bihar,2020-02-29,Monthly,9.76,18170852.0,37.95,East,2,2020,1 Pre-COVID
+Bihar,2020-03-31,Monthly,13.98,17551801.0,37.57,East,3,2020,2 First wave / lockdown
+Bihar,2020-04-30,Monthly,30.21,13498895.0,35.36,East,4,2020,2 First wave / lockdown
+Bihar,2020-05-31,Monthly,28.22,13780052.0,35.15,East,5,2020,2 First wave / lockdown
+Bihar,2020-06-30,Monthly,13.87,16369456.0,37.63,East,6,2020,2 First wave / lockdown
+Bihar,2020-07-31,Monthly,11.6,18958860.0,39.12,East,7,2020,3 Recovery
+Bihar,2020-08-31,Monthly,10.78,18209966.0,36.93,East,8,2020,3 Recovery
+Bihar,2020-09-30,Monthly,9.36,18698816.0,38.44,East,9,2020,3 Recovery
+Bihar,2020-10-31,Monthly,9.81,18715885.0,38.42,East,10,2020,3 Recovery
+Bihar,2020-11-30,Monthly,8.71,19132996.0,38.35,East,11,2020,3 Recovery
+Bihar,2020-12-31,Monthly,9.73,18671958.0,37.97,East,12,2020,3 Recovery
+Bihar,2021-01-31,Monthly,8.77,19066757.0,39.27,East,1,2021,3 Recovery
+Bihar,2021-02-28,Monthly,8.66,19156620.0,38.29,East,2,2021,3 Recovery
+Bihar,2021-03-31,Monthly,9.29,18261317.0,36.74,East,3,2021,3 Recovery
+Bihar,2021-04-30,Monthly,14.14,17247293.0,36.47,East,4,2021,4 Second wave
+Bihar,2021-05-31,Monthly,16.32,16751834.0,37.04,East,5,2021,4 Second wave
+Bihar,2021-06-30,Monthly,12.65,18521960.0,38.6,East,6,2021,4 Second wave
+Bihar,2021-07-31,Monthly,10.82,19028155.0,38.89,East,7,2021,4 Second wave
+Bihar,2021-08-31,Monthly,10.95,18784399.0,38.3,East,8,2021,5 Post second wave
+Bihar,2021-09-30,Monthly,8.75,18891745.0,38.17,East,9,2021,5 Post second wave
+Bihar,2021-10-31,Monthly,9.07,18661502.0,37.28,East,10,2021,5 Post second wave
+Bihar,2021-11-30,Monthly,8.64,19644299.0,39.08,East,11,2021,5 Post second wave
+Bihar,2021-12-31,Monthly,10.34,18643747.0,38.68,East,12,2021,5 Post second wave
+Chandigarh,2019-01-31,Monthly,6.28,20146616.0,42.19,North,1,2019,1 Pre-COVID
+Chandigarh,2019-02-28,Monthly,6.28,20199146.0,42.61,North,2,2019,1 Pre-COVID
+Chandigarh,2019-03-31,Monthly,6.28,20024902.0,42.63,North,3,2019,1 Pre-COVID
+Chandigarh,2019-04-30,Monthly,5.86,18835588.0,40.21,North,4,2019,1 Pre-COVID
+Chandigarh,2019-05-31,Monthly,7.17,19679504.0,42.1,North,5,2019,1 Pre-COVID
+Chandigarh,2019-06-30,Monthly,7.67,18991804.0,40.93,North,6,2019,1 Pre-COVID
+Chandigarh,2019-07-31,Monthly,6.73,19405224.0,41.38,North,7,2019,1 Pre-COVID
+Chandigarh,2019-08-31,Monthly,5.93,20280783.0,43.18,North,8,2019,1 Pre-COVID
+Chandigarh,2019-09-30,Monthly,7.33,19751451.0,42.575,North,9,2019,1 Pre-COVID
+Chandigarh,2019-10-31,Monthly,6.59,19591983.0,41.97,North,10,2019,1 Pre-COVID
+Chandigarh,2019-11-30,Monthly,6.8,19646539.0,42.27,North,11,2019,1 Pre-COVID
+Chandigarh,2019-12-31,Monthly,6.83,19876205.0,41.49,North,12,2019,1 Pre-COVID
+Chandigarh,2020-01-31,Monthly,6.51,20306327.0,43.3,North,1,2020,1 Pre-COVID
+Chandigarh,2020-02-29,Monthly,6.72,19087234.0,40.89,North,2,2020,1 Pre-COVID
+Chandigarh,2020-03-31,Monthly,10.02,19327807.0,42.64,North,3,2020,2 First wave / lockdown
+Chandigarh,2020-04-30,Monthly,24.41,17687941.5,38.79,North,4,2020,2 First wave / lockdown
+Chandigarh,2020-05-31,Monthly,21.1,16048076.0,40.66,North,5,2020,2 First wave / lockdown
+Chandigarh,2020-06-30,Monthly,9.64,18743491.0,40.33,North,6,2020,2 First wave / lockdown
+Chandigarh,2020-07-31,Monthly,7.34,19633494.0,41.64,North,7,2020,3 Recovery
+Chandigarh,2020-08-31,Monthly,8.02,19750758.0,43.39,North,8,2020,3 Recovery
+Chandigarh,2020-09-30,Monthly,6.06,19298478.0,41.69,North,9,2020,3 Recovery
+Chandigarh,2020-10-31,Monthly,6.61,19792992.0,41.86,North,10,2020,3 Recovery
+Chandigarh,2020-11-30,Monthly,6.645,19536772.0,41.87,North,11,2020,3 Recovery
+Chandigarh,2020-12-31,Monthly,6.68,19999468.0,42.88,North,12,2020,3 Recovery
+Chandigarh,2021-01-31,Monthly,5.56,20518885.0,43.06,North,1,2021,3 Recovery
+Chandigarh,2021-02-28,Monthly,6.673333333333333,19911791.0,41.13,North,2,2021,3 Recovery
+Chandigarh,2021-03-31,Monthly,7.786666666666667,19443936.0,41.44,North,3,2021,3 Recovery
+Chandigarh,2021-04-30,Monthly,8.9,19056948.0,42.19,North,4,2021,4 Second wave
+Chandigarh,2021-05-31,Monthly,11.2,18378819.0,41.22,North,5,2021,4 Second wave
+Chandigarh,2021-06-30,Monthly,9.19,18578015.0,40.56,North,6,2021,4 Second wave
+Chandigarh,2021-07-31,Monthly,7.04,19843421.0,42.41,North,7,2021,4 Second wave
+Chandigarh,2021-08-31,Monthly,6.67,19725016.0,41.27,North,8,2021,5 Post second wave
+Chandigarh,2021-09-30,Monthly,6.37,19606611.0,42.03,North,9,2021,5 Post second wave
+Chandigarh,2021-10-31,Monthly,5.51,20049726.0,42.37,North,10,2021,5 Post second wave
+Chandigarh,2021-11-30,Monthly,5.96,20337366.0,42.64,North,11,2021,5 Post second wave
+Chandigarh,2021-12-31,Monthly,6.75,19953702.0,42.97,North,12,2021,5 Post second wave
+Chhattisgarh,2019-01-31,Monthly,4.96,11989099.0,49.48,Central,1,2019,1 Pre-COVID
+Chhattisgarh,2019-02-28,Monthly,5.59,11570938.0,49.3,Central,2,2019,1 Pre-COVID
+Chhattisgarh,2019-03-31,Monthly,5.51,11499352.0,48.78,Central,3,2019,1 Pre-COVID
+Chhattisgarh,2019-04-30,Monthly,5.71,12187732.0,51.16,Central,4,2019,1 Pre-COVID
+Chhattisgarh,2019-05-31,Monthly,4.89,12024859.0,50.3,Central,5,2019,1 Pre-COVID
+Chhattisgarh,2019-06-30,Monthly,5.74,11966636.0,51.62,Central,6,2019,1 Pre-COVID
+Chhattisgarh,2019-07-31,Monthly,5.2,11854739.0,50.59,Central,7,2019,1 Pre-COVID
+Chhattisgarh,2019-08-31,Monthly,5.8,12016955.0,50.37,Central,8,2019,1 Pre-COVID
+Chhattisgarh,2019-09-30,Monthly,5.15,12233530.0,50.3,Central,9,2019,1 Pre-COVID
+Chhattisgarh,2019-10-31,Monthly,5.46,11959311.0,50.23,Central,10,2019,1 Pre-COVID
+Chhattisgarh,2019-11-30,Monthly,5.22,11849313.0,49.85,Central,11,2019,1 Pre-COVID
+Chhattisgarh,2019-12-31,Monthly,5.73,11946315.0,51.0,Central,12,2019,1 Pre-COVID
+Chhattisgarh,2020-01-31,Monthly,5.29,12153907.0,51.48,Central,1,2020,1 Pre-COVID
+Chhattisgarh,2020-02-29,Monthly,5.13,12063073.0,50.2,Central,2,2020,1 Pre-COVID
+Chhattisgarh,2020-03-31,Monthly,7.23,11868049.0,50.51,Central,3,2020,2 First wave / lockdown
+Chhattisgarh,2020-04-30,Monthly,15.66,9993601.0,46.11,Central,4,2020,2 First wave / lockdown
+Chhattisgarh,2020-05-31,Monthly,13.71,9764801.0,44.35,Central,5,2020,2 First wave / lockdown
+Chhattisgarh,2020-06-30,Monthly,7.17,11645479.0,49.31,Central,6,2020,2 First wave / lockdown
+Chhattisgarh,2020-07-31,Monthly,5.07,11413606.0,48.65,Central,7,2020,3 Recovery
+Chhattisgarh,2020-08-31,Monthly,5.69,11938147.0,50.14,Central,8,2020,3 Recovery
+Chhattisgarh,2020-09-30,Monthly,5.21,11322647.0,48.68,Central,9,2020,3 Recovery
+Chhattisgarh,2020-10-31,Monthly,5.19,11871034.0,49.63,Central,10,2020,3 Recovery
+Chhattisgarh,2020-11-30,Monthly,5.27,12066948.0,50.34,Central,11,2020,3 Recovery
+Chhattisgarh,2020-12-31,Monthly,5.55,11916365.0,50.59,Central,12,2020,3 Recovery
+Chhattisgarh,2021-01-31,Monthly,4.86,12141157.0,50.4,Central,1,2021,3 Recovery
+Chhattisgarh,2021-02-28,Monthly,4.84,12089671.0,50.72,Central,2,2021,3 Recovery
+Chhattisgarh,2021-03-31,Monthly,5.24,11879120.0,50.93,Central,3,2021,3 Recovery
+Chhattisgarh,2021-04-30,Monthly,6.615,11051712.0,48.03,Central,4,2021,4 Second wave
+Chhattisgarh,2021-05-31,Monthly,7.99,11412739.0,49.53,Central,5,2021,4 Second wave
+Chhattisgarh,2021-06-30,Monthly,6.79,11997293.0,50.58,Central,6,2021,4 Second wave
+Chhattisgarh,2021-07-31,Monthly,5.37,12216508.0,51.35,Central,7,2021,4 Second wave
+Chhattisgarh,2021-08-31,Monthly,5.050000000000001,11585760.0,49.37,Central,8,2021,5 Post second wave
+Chhattisgarh,2021-09-30,Monthly,4.73,12011393.0,49.8,Central,9,2021,5 Post second wave
+Chhattisgarh,2021-10-31,Monthly,5.37,11655150.0,48.85,Central,10,2021,5 Post second wave
+Chhattisgarh,2021-11-30,Monthly,4.67,12127260.0,50.72,Central,11,2021,5 Post second wave
+Chhattisgarh,2021-12-31,Monthly,4.68,12157198.0,51.09,Central,12,2021,5 Post second wave
+Delhi,2019-01-31,Monthly,12.04,13158610.0,40.26,North,1,2019,1 Pre-COVID
+Delhi,2019-02-28,Monthly,13.11,13294807.0,40.26,North,2,2019,1 Pre-COVID
+Delhi,2019-03-31,Monthly,14.18,12675380.0,39.73,North,3,2019,1 Pre-COVID
+Delhi,2019-04-30,Monthly,14.25,12844026.5,39.73,North,4,2019,1 Pre-COVID
+Delhi,2019-05-31,Monthly,13.86,13012673.0,39.9,North,5,2019,1 Pre-COVID
+Delhi,2019-06-30,Monthly,14.91,13386397.0,41.66,North,6,2019,1 Pre-COVID
+Delhi,2019-07-31,Monthly,13.07,13290755.0,40.86,North,7,2019,1 Pre-COVID
+Delhi,2019-08-31,Monthly,13.07,13156114.0,39.98,North,8,2019,1 Pre-COVID
+Delhi,2019-09-30,Monthly,12.22,12562907.0,38.73,North,9,2019,1 Pre-COVID
+Delhi,2019-10-31,Monthly,12.13,13103577.0,39.63,North,10,2019,1 Pre-COVID
+Delhi,2019-11-30,Monthly,14.63,13044353.0,40.88,North,11,2019,1 Pre-COVID
+Delhi,2019-12-31,Monthly,13.71,12881858.0,39.67,North,12,2019,1 Pre-COVID
+Delhi,2020-01-31,Monthly,12.96,13255476.0,40.5,North,1,2020,1 Pre-COVID
+Delhi,2020-02-29,Monthly,13.73,12725656.0,39.09,North,2,2020,1 Pre-COVID
+Delhi,2020-03-31,Monthly,21.39,11895633.0,39.54,North,3,2020,2 First wave / lockdown
+Delhi,2020-04-30,Monthly,36.47,8842268.0,36.9,North,4,2020,2 First wave / lockdown
+Delhi,2020-05-31,Monthly,34.47,9035772.0,36.38,North,5,2020,2 First wave / lockdown
+Delhi,2020-06-30,Monthly,18.35,12422234.0,39.88,North,6,2020,2 First wave / lockdown
+Delhi,2020-07-31,Monthly,13.96,12945108.0,39.69,North,7,2020,3 Recovery
+Delhi,2020-08-31,Monthly,14.72,12796340.0,40.5,North,8,2020,3 Recovery
+Delhi,2020-09-30,Monthly,11.86,12608051.0,38.48,North,9,2020,3 Recovery
+Delhi,2020-10-31,Monthly,13.16,13273389.0,40.8,North,10,2020,3 Recovery
+Delhi,2020-11-30,Monthly,10.68,12664207.0,37.78,North,11,2020,3 Recovery
+Delhi,2020-12-31,Monthly,14.75,12922759.0,40.4,North,12,2020,3 Recovery
+Delhi,2021-01-31,Monthly,11.66,12931027.0,38.91,North,1,2021,3 Recovery
+Delhi,2021-02-28,Monthly,11.54,13489282.0,40.09,North,2,2021,3 Recovery
+Delhi,2021-03-31,Monthly,12.69,13288913.0,40.62,North,3,2021,3 Recovery
+Delhi,2021-04-30,Monthly,17.95,12537626.0,40.89,North,4,2021,4 Second wave
+Delhi,2021-05-31,Monthly,21.04,11920553.0,40.08,North,5,2021,4 Second wave
+Delhi,2021-06-30,Monthly,18.41,12260466.0,39.25,North,6,2021,4 Second wave
+Delhi,2021-07-31,Monthly,13.05,13399052.0,40.21,North,7,2021,4 Second wave
+Delhi,2021-08-31,Monthly,12.85,12839202.0,39.22,North,8,2021,5 Post second wave
+Delhi,2021-09-30,Monthly,11.96,12997093.0,38.87,North,9,2021,5 Post second wave
+Delhi,2021-10-31,Monthly,10.82,13504402.0,41.11,North,10,2021,5 Post second wave
+Delhi,2021-11-30,Monthly,10.87,12953852.0,38.84,North,11,2021,5 Post second wave
+Delhi,2021-12-31,Monthly,12.4,13184229.0,39.98,North,12,2021,5 Post second wave
+Goa,2019-01-31,Monthly,7.44,42889210.0,41.15,West,1,2019,1 Pre-COVID
+Goa,2019-02-28,Monthly,7.72,43912048.0,42.32,West,2,2019,1 Pre-COVID
+Goa,2019-03-31,Monthly,7.71,43107028.0,43.71,West,3,2019,1 Pre-COVID
+Goa,2019-04-30,Monthly,7.59,42302008.0,41.37,West,4,2019,1 Pre-COVID
+Goa,2019-05-31,Monthly,7.23,42760754.0,41.25,West,5,2019,1 Pre-COVID
+Goa,2019-06-30,Monthly,7.88,42973140.0,42.04,West,6,2019,1 Pre-COVID
+Goa,2019-07-31,Monthly,7.82,43856630.0,42.62,West,7,2019,1 Pre-COVID
+Goa,2019-08-31,Monthly,7.07,44200862.0,42.46,West,8,2019,1 Pre-COVID
+Goa,2019-09-30,Monthly,6.73,43856693.0,41.94,West,9,2019,1 Pre-COVID
+Goa,2019-10-31,Monthly,7.03,43184673.0,42.16,West,10,2019,1 Pre-COVID
+Goa,2019-11-30,Monthly,8.17,44086958.0,43.05,West,11,2019,1 Pre-COVID
+Goa,2019-12-31,Monthly,7.89,40693344.0,39.98,West,12,2019,1 Pre-COVID
+Goa,2020-01-31,Monthly,7.23,42936467.0,41.1,West,1,2020,1 Pre-COVID
+Goa,2020-02-29,Monthly,8.3,41696816.0,41.01,West,2,2020,1 Pre-COVID
+Goa,2020-03-31,Monthly,10.95,41956321.0,42.66,West,3,2020,2 First wave / lockdown
+Goa,2020-04-30,Monthly,24.23,33077708.0,39.7,West,4,2020,2 First wave / lockdown
+Goa,2020-05-31,Monthly,20.78,33906962.0,38.48,West,5,2020,2 First wave / lockdown
+Goa,2020-06-30,Monthly,11.52,40352614.0,41.53,West,6,2020,2 First wave / lockdown
+Goa,2020-07-31,Monthly,8.07,43130716.0,41.43,West,7,2020,3 Recovery
+Goa,2020-08-31,Monthly,8.23,42521681.0,41.22,West,8,2020,3 Recovery
+Goa,2020-09-30,Monthly,7.27,43282166.0,42.46,West,9,2020,3 Recovery
+Goa,2020-10-31,Monthly,7.25,42840124.0,41.21,West,10,2020,3 Recovery
+Goa,2020-11-30,Monthly,6.19,44265150.0,42.54,West,11,2020,3 Recovery
+Goa,2020-12-31,Monthly,6.91,44499450.0,42.65,West,12,2020,3 Recovery
+Goa,2021-01-31,Monthly,6.32,45249934.0,43.39,West,1,2021,3 Recovery
+Goa,2021-02-28,Monthly,6.64,43981100.0,42.39,West,2,2021,3 Recovery
+Goa,2021-03-31,Monthly,7.37,42944736.0,41.64,West,3,2021,3 Recovery
+Goa,2021-04-30,Monthly,10.56,39732258.0,40.71,West,4,2021,4 Second wave
+Goa,2021-05-31,Monthly,13.88,41316702.0,43.08,West,5,2021,4 Second wave
+Goa,2021-06-30,Monthly,8.68,42069209.0,41.32,West,6,2021,4 Second wave
+Goa,2021-07-31,Monthly,7.35,42788027.0,41.06,West,7,2021,4 Second wave
+Goa,2021-08-31,Monthly,7.74,42288007.0,40.71,West,8,2021,5 Post second wave
+Goa,2021-09-30,Monthly,7.53,43565154.0,42.28,West,9,2021,5 Post second wave
+Goa,2021-10-31,Monthly,6.41,43931123.0,42.72,West,10,2021,5 Post second wave
+Goa,2021-11-30,Monthly,6.66,44507749.0,41.87,West,11,2021,5 Post second wave
+Goa,2021-12-31,Monthly,6.99,44781215.0,43.54,West,12,2021,5 Post second wave
+Gujarat,2019-01-31,Monthly,4.19,15192639.0,47.17,West,1,2019,1 Pre-COVID
+Gujarat,2019-02-28,Monthly,4.45,15033054.0,47.69,West,2,2019,1 Pre-COVID
+Gujarat,2019-03-31,Monthly,4.23,15096671.0,47.13,West,3,2019,1 Pre-COVID
+Gujarat,2019-04-30,Monthly,4.3,14649604.0,46.36,West,4,2019,1 Pre-COVID
+Gujarat,2019-05-31,Monthly,4.49,14834373.0,47.5,West,5,2019,1 Pre-COVID
+Gujarat,2019-06-30,Monthly,4.52,15353502.0,48.26,West,6,2019,1 Pre-COVID
+Gujarat,2019-07-31,Monthly,3.83,15806417.0,48.8,West,7,2019,1 Pre-COVID
+Gujarat,2019-08-31,Monthly,4.69,15541628.0,48.4,West,8,2019,1 Pre-COVID
+Gujarat,2019-09-30,Monthly,4.07,15803817.0,48.78,West,9,2019,1 Pre-COVID
+Gujarat,2019-10-31,Monthly,4.46,15163123.0,47.5,West,10,2019,1 Pre-COVID
+Gujarat,2019-11-30,Monthly,4.12,15255906.0,48.76,West,11,2019,1 Pre-COVID
+Gujarat,2019-12-31,Monthly,4.2,15348689.0,47.59,West,12,2019,1 Pre-COVID
+Gujarat,2020-01-31,Monthly,4.05,15395959.0,48.91,West,1,2020,1 Pre-COVID
+Gujarat,2020-02-29,Monthly,3.95,14877302.0,47.64,West,2,2020,1 Pre-COVID
+Gujarat,2020-03-31,Monthly,9.120000000000001,14663571.0,46.37,West,3,2020,2 First wave / lockdown
+Gujarat,2020-04-30,Monthly,14.29,12401441.0,43.56,West,4,2020,2 First wave / lockdown
+Gujarat,2020-05-31,Monthly,12.33,13193360.0,45.28,West,5,2020,2 First wave / lockdown
+Gujarat,2020-06-30,Monthly,5.71,15080042.0,47.76,West,6,2020,2 First wave / lockdown
+Gujarat,2020-07-31,Monthly,4.53,15452193.0,47.89,West,7,2020,3 Recovery
+Gujarat,2020-08-31,Monthly,4.43,15266597.0,47.7,West,8,2020,3 Recovery
+Gujarat,2020-09-30,Monthly,3.62,15173208.0,46.59,West,9,2020,3 Recovery
+Gujarat,2020-10-31,Monthly,3.86,15185509.0,47.11,West,10,2020,3 Recovery
+Gujarat,2020-11-30,Monthly,4.07,14585292.0,45.99,West,11,2020,3 Recovery
+Gujarat,2020-12-31,Monthly,3.96,15986907.0,49.46,West,12,2020,3 Recovery
+Gujarat,2021-01-31,Monthly,3.87,15022526.0,47.09,West,1,2021,3 Recovery
+Gujarat,2021-02-28,Monthly,3.84,15655818.0,48.25,West,2,2021,3 Recovery
+Gujarat,2021-03-31,Monthly,3.98,15609250.0,48.36,West,3,2021,3 Recovery
+Gujarat,2021-04-30,Monthly,5.0,15043205.0,48.29,West,4,2021,4 Second wave
+Gujarat,2021-05-31,Monthly,6.02,15250271.0,47.79,West,5,2021,4 Second wave
+Gujarat,2021-06-30,Monthly,5.07,14591226.0,45.75,West,6,2021,4 Second wave
+Gujarat,2021-07-31,Monthly,4.38,16038826.0,49.73,West,7,2021,4 Second wave
+Gujarat,2021-08-31,Monthly,4.1,15162070.0,47.1,West,8,2021,5 Post second wave
+Gujarat,2021-09-30,Monthly,3.72,15556281.0,47.18,West,9,2021,5 Post second wave
+Gujarat,2021-10-31,Monthly,4.05,15737759.0,49.33,West,10,2021,5 Post second wave
+Gujarat,2021-11-30,Monthly,3.92,15820009.0,48.85,West,11,2021,5 Post second wave
+Gujarat,2021-12-31,Monthly,4.27,15782161.0,48.77,West,12,2021,5 Post second wave
+Haryana,2019-01-31,Monthly,18.24,7335339.0,40.5,North,1,2019,1 Pre-COVID
+Haryana,2019-02-28,Monthly,17.54,7594824.0,40.92,North,2,2019,1 Pre-COVID
+Haryana,2019-03-31,Monthly,18.795,7652357.0,43.14,North,3,2019,1 Pre-COVID
+Haryana,2019-04-30,Monthly,20.05,7449316.0,42.01,North,4,2019,1 Pre-COVID
+Haryana,2019-05-31,Monthly,17.79,7707489.0,42.33,North,5,2019,1 Pre-COVID
+Haryana,2019-06-30,Monthly,17.42,7662271.0,41.96,North,6,2019,1 Pre-COVID
+Haryana,2019-07-31,Monthly,19.78,7631008.5,42.75,North,7,2019,1 Pre-COVID
+Haryana,2019-08-31,Monthly,18.15,7599746.0,42.04,North,8,2019,1 Pre-COVID
+Haryana,2019-09-30,Monthly,16.87,7647107.0,41.87,North,9,2019,1 Pre-COVID
+Haryana,2019-10-31,Monthly,16.86,7838323.0,42.43,North,10,2019,1 Pre-COVID
+Haryana,2019-11-30,Monthly,16.63,7808140.0,41.9,North,11,2019,1 Pre-COVID
+Haryana,2019-12-31,Monthly,19.77,7614502.0,42.86,North,12,2019,1 Pre-COVID
+Haryana,2020-01-31,Monthly,17.1,7565359.0,41.09,North,1,2020,1 Pre-COVID
+Haryana,2020-02-29,Monthly,18.44,7862175.0,43.08,North,2,2020,1 Pre-COVID
+Haryana,2020-03-31,Monthly,29.310000000000002,6732746.0,40.3,North,3,2020,2 First wave / lockdown
+Haryana,2020-04-30,Monthly,40.18,5021410.0,38.15,North,4,2020,2 First wave / lockdown
+Haryana,2020-05-31,Monthly,38.98,5156230.0,38.42,North,5,2020,2 First wave / lockdown
+Haryana,2020-06-30,Monthly,25.17,6806081.0,39.69,North,6,2020,2 First wave / lockdown
+Haryana,2020-07-31,Monthly,19.15,7294831.0,40.96,North,7,2020,3 Recovery
+Haryana,2020-08-31,Monthly,21.72,6915639.0,40.78,North,8,2020,3 Recovery
+Haryana,2020-09-30,Monthly,15.36,7890802.0,42.11,North,9,2020,3 Recovery
+Haryana,2020-10-31,Monthly,17.16,7692324.0,43.11,North,10,2020,3 Recovery
+Haryana,2020-11-30,Monthly,17.11,7887977.0,43.48,North,11,2020,3 Recovery
+Haryana,2020-12-31,Monthly,17.86,7462087.0,41.42,North,12,2020,3 Recovery
+Haryana,2021-01-31,Monthly,16.0,8211611.0,43.37,North,1,2021,3 Recovery
+Haryana,2021-02-28,Monthly,16.14,8127489.0,43.77,North,2,2021,3 Recovery
+Haryana,2021-03-31,Monthly,19.21,7520812.0,42.01,North,3,2021,3 Recovery
+Haryana,2021-04-30,Monthly,23.06,7594996.0,44.22,North,4,2021,4 Second wave
+Haryana,2021-05-31,Monthly,26.78,6747283.0,41.79,North,5,2021,4 Second wave
+Haryana,2021-06-30,Monthly,22.1,7301313.0,42.34,North,6,2021,4 Second wave
+Haryana,2021-07-31,Monthly,18.35,7618078.0,42.01,North,7,2021,4 Second wave
+Haryana,2021-08-31,Monthly,18.64,7312465.0,40.34,North,8,2021,5 Post second wave
+Haryana,2021-09-30,Monthly,15.73,7627918.0,40.92,North,9,2021,5 Post second wave
+Haryana,2021-10-31,Monthly,16.19,7784198.0,41.62,North,10,2021,5 Post second wave
+Haryana,2021-11-30,Monthly,15.2,7810612.0,41.86,North,11,2021,5 Post second wave
+Haryana,2021-12-31,Monthly,17.35,7672659.0,42.37,North,12,2021,5 Post second wave
+Himachal Pradesh,2019-01-31,Monthly,12.11,47891169.0,54.76,North,1,2019,1 Pre-COVID
+Himachal Pradesh,2019-02-28,Monthly,12.17,50454211.0,54.76,North,2,2019,1 Pre-COVID
+Himachal Pradesh,2019-03-31,Monthly,12.4,51310785.0,55.25,North,3,2019,1 Pre-COVID
+Himachal Pradesh,2019-04-30,Monthly,11.85,49180089.0,53.71,North,4,2019,1 Pre-COVID
+Himachal Pradesh,2019-05-31,Monthly,12.98,51294379.0,56.37,North,5,2019,1 Pre-COVID
+Himachal Pradesh,2019-06-30,Monthly,10.84,49334436.0,53.13,North,6,2019,1 Pre-COVID
+Himachal Pradesh,2019-07-31,Monthly,11.8,50553424.0,54.55,North,7,2019,1 Pre-COVID
+Himachal Pradesh,2019-08-31,Monthly,11.85,51635357.0,56.15,North,8,2019,1 Pre-COVID
+Himachal Pradesh,2019-09-30,Monthly,11.47,50835290.0,55.53,North,9,2019,1 Pre-COVID
+Himachal Pradesh,2019-10-31,Monthly,12.45,50598595.0,55.11,North,10,2019,1 Pre-COVID
+Himachal Pradesh,2019-11-30,Monthly,13.53,50340672.0,54.32,North,11,2019,1 Pre-COVID
+Himachal Pradesh,2019-12-31,Monthly,12.49,49290668.0,53.6,North,12,2019,1 Pre-COVID
+Himachal Pradesh,2020-01-31,Monthly,11.32,50654310.0,54.17,North,1,2020,1 Pre-COVID
+Himachal Pradesh,2020-02-29,Monthly,12.57,50367338.0,54.32,North,2,2020,1 Pre-COVID
+Himachal Pradesh,2020-03-31,Monthly,17.56,48458639.0,55.67,North,3,2020,2 First wave / lockdown
+Himachal Pradesh,2020-04-30,Monthly,32.91,33904592.0,48.27,North,4,2020,2 First wave / lockdown
+Himachal Pradesh,2020-05-31,Monthly,28.57,37994725.0,50.94,North,5,2020,2 First wave / lockdown
+Himachal Pradesh,2020-06-30,Monthly,16.68,43976398.0,56.16,North,6,2020,2 First wave / lockdown
+Himachal Pradesh,2020-07-31,Monthly,13.0,49958071.0,54.64,North,7,2020,3 Recovery
+Himachal Pradesh,2020-08-31,Monthly,13.6,50634069.0,55.16,North,8,2020,3 Recovery
+Himachal Pradesh,2020-09-30,Monthly,12.63,51181746.0,55.45,North,9,2020,3 Recovery
+Himachal Pradesh,2020-10-31,Monthly,12.27,51970165.0,55.01,North,10,2020,3 Recovery
+Himachal Pradesh,2020-11-30,Monthly,11.91,51755466.0,55.45,North,11,2020,3 Recovery
+Himachal Pradesh,2020-12-31,Monthly,12.67,51864671.0,56.39,North,12,2020,3 Recovery
+Himachal Pradesh,2021-01-31,Monthly,10.8,50552525.0,55.59,North,1,2021,3 Recovery
+Himachal Pradesh,2021-02-28,Monthly,11.38,46823609.0,51.19,North,2,2021,3 Recovery
+Himachal Pradesh,2021-03-31,Monthly,12.19,50710058.0,55.64,North,3,2021,3 Recovery
+Himachal Pradesh,2021-04-30,Monthly,14.69,49878402.0,55.94,North,4,2021,4 Second wave
+Himachal Pradesh,2021-05-31,Monthly,21.14,44636194.0,53.68,North,5,2021,4 Second wave
+Himachal Pradesh,2021-06-30,Monthly,16.65,47311304.0,54.59,North,6,2021,4 Second wave
+Himachal Pradesh,2021-07-31,Monthly,12.11,50041212.0,54.96,North,7,2021,4 Second wave
+Himachal Pradesh,2021-08-31,Monthly,12.09,50446534.0,54.14,North,8,2021,5 Post second wave
+Himachal Pradesh,2021-09-30,Monthly,11.26,51079842.0,54.86,North,9,2021,5 Post second wave
+Himachal Pradesh,2021-10-31,Monthly,11.06,51733668.0,55.95,North,10,2021,5 Post second wave
+Himachal Pradesh,2021-11-30,Monthly,10.47,52894478.0,56.48,North,11,2021,5 Post second wave
+Himachal Pradesh,2021-12-31,Monthly,10.83,52374766.0,55.67,North,12,2021,5 Post second wave
+Jammu & Kashmir,2019-01-31,Monthly,13.76,20949446.0,43.63,North,1,2019,1 Pre-COVID
+Jammu & Kashmir,2019-02-28,Monthly,14.2,19954564.0,41.79,North,2,2019,1 Pre-COVID
+Jammu & Kashmir,2019-03-31,Monthly,13.74,20552156.0,42.58,North,3,2019,1 Pre-COVID
+Jammu & Kashmir,2019-04-30,Monthly,15.4,21175381.0,44.54,North,4,2019,1 Pre-COVID
+Jammu & Kashmir,2019-05-31,Monthly,14.28,20746765.0,43.3,North,5,2019,1 Pre-COVID
+Jammu & Kashmir,2019-06-30,Monthly,13.975,20653837.0,43.11,North,6,2019,1 Pre-COVID
+Jammu & Kashmir,2019-07-31,Monthly,13.67,20205679.0,42.37,North,7,2019,1 Pre-COVID
+Jammu & Kashmir,2019-08-31,Monthly,14.06,20566300.0,43.0,North,8,2019,1 Pre-COVID
+Jammu & Kashmir,2019-09-30,Monthly,14.030000000000001,20488980.0,42.68,North,9,2019,1 Pre-COVID
+Jammu & Kashmir,2019-10-31,Monthly,14.0,20291701.0,41.94,North,10,2019,1 Pre-COVID
+Jammu & Kashmir,2019-11-30,Monthly,13.58,19720117.0,41.58,North,11,2019,1 Pre-COVID
+Jammu & Kashmir,2019-12-31,Monthly,13.42,20614591.0,43.04,North,12,2019,1 Pre-COVID
+Jammu & Kashmir,2020-01-31,Monthly,13.32,20999350.0,43.53,North,1,2020,1 Pre-COVID
+Jammu & Kashmir,2020-02-29,Monthly,13.95,20816882.0,43.35,North,2,2020,1 Pre-COVID
+Jammu & Kashmir,2020-03-31,Monthly,15.5,19257255.0,42.0,North,3,2020,2 First wave / lockdown
+Jammu & Kashmir,2020-04-30,Monthly,30.71,15226778.0,39.21,North,4,2020,2 First wave / lockdown
+Jammu & Kashmir,2020-05-31,Monthly,30.51,15297700.0,39.89,North,5,2020,2 First wave / lockdown
+Jammu & Kashmir,2020-06-30,Monthly,18.29,18971811.0,41.87,North,6,2020,2 First wave / lockdown
+Jammu & Kashmir,2020-07-31,Monthly,14.94,20181997.0,42.44,North,7,2020,3 Recovery
+Jammu & Kashmir,2020-08-31,Monthly,15.46,19849433.0,41.93,North,8,2020,3 Recovery
+Jammu & Kashmir,2020-09-30,Monthly,13.65,20519572.0,43.17,North,9,2020,3 Recovery
+Jammu & Kashmir,2020-10-31,Monthly,12.61,20770121.0,42.62,North,10,2020,3 Recovery
+Jammu & Kashmir,2020-11-30,Monthly,12.34,20909759.0,43.55,North,11,2020,3 Recovery
+Jammu & Kashmir,2020-12-31,Monthly,13.79,21133566.0,43.15,North,12,2020,3 Recovery
+Jammu & Kashmir,2021-01-31,Monthly,11.68,21802055.0,44.44,North,1,2021,3 Recovery
+Jammu & Kashmir,2021-02-28,Monthly,13.1,20948905.0,43.27,North,2,2021,3 Recovery
+Jammu & Kashmir,2021-03-31,Monthly,13.4,21200017.0,44.34,North,3,2021,3 Recovery
+Jammu & Kashmir,2021-04-30,Monthly,17.52,19211759.0,42.02,North,4,2021,4 Second wave
+Jammu & Kashmir,2021-05-31,Monthly,18.59,19397661.0,42.35,North,5,2021,4 Second wave
+Jammu & Kashmir,2021-06-30,Monthly,16.44,19432074.0,42.4,North,6,2021,4 Second wave
+Jammu & Kashmir,2021-07-31,Monthly,13.53,19782236.0,41.63,North,7,2021,4 Second wave
+Jammu & Kashmir,2021-08-31,Monthly,13.93,21642248.0,44.1,North,8,2021,5 Post second wave
+Jammu & Kashmir,2021-09-30,Monthly,12.43,21604579.0,44.38,North,9,2021,5 Post second wave
+Jammu & Kashmir,2021-10-31,Monthly,12.52,21159088.0,43.58,North,10,2021,5 Post second wave
+Jammu & Kashmir,2021-11-30,Monthly,12.95,20401332.0,42.85,North,11,2021,5 Post second wave
+Jammu & Kashmir,2021-12-31,Monthly,12.3,21197115.0,43.7,North,12,2021,5 Post second wave
+Jharkhand,2019-01-31,Monthly,8.95,32774439.0,41.65,East,1,2019,1 Pre-COVID
+Jharkhand,2019-02-28,Monthly,8.69,33610492.0,42.01,East,2,2019,1 Pre-COVID
+Jharkhand,2019-03-31,Monthly,9.48,33044771.0,41.8,East,3,2019,1 Pre-COVID
+Jharkhand,2019-04-30,Monthly,10.01,32412147.0,41.5,East,4,2019,1 Pre-COVID
+Jharkhand,2019-05-31,Monthly,9.77,31431889.0,40.1,East,5,2019,1 Pre-COVID
+Jharkhand,2019-06-30,Monthly,8.65,32210916.0,40.35,East,6,2019,1 Pre-COVID
+Jharkhand,2019-07-31,Monthly,9.48,32879661.0,42.22,East,7,2019,1 Pre-COVID
+Jharkhand,2019-08-31,Monthly,8.34,32840508.5,40.8,East,8,2019,1 Pre-COVID
+Jharkhand,2019-09-30,Monthly,8.99,32801356.0,41.93,East,9,2019,1 Pre-COVID
+Jharkhand,2019-10-31,Monthly,9.22,31614504.0,40.19,East,10,2019,1 Pre-COVID
+Jharkhand,2019-11-30,Monthly,9.22,31553146.0,40.39,East,11,2019,1 Pre-COVID
+Jharkhand,2019-12-31,Monthly,9.3,32474070.0,40.78,East,12,2019,1 Pre-COVID
+Jharkhand,2020-01-31,Monthly,8.9,31393465.0,40.8,East,1,2020,1 Pre-COVID
+Jharkhand,2020-02-29,Monthly,8.57,31949695.0,40.78,East,2,2020,1 Pre-COVID
+Jharkhand,2020-03-31,Monthly,14.09,30185482.0,40.21,East,3,2020,2 First wave / lockdown
+Jharkhand,2020-04-30,Monthly,27.97,23232159.0,37.42,East,4,2020,2 First wave / lockdown
+Jharkhand,2020-05-31,Monthly,26.07,24412824.0,39.19,East,5,2020,2 First wave / lockdown
+Jharkhand,2020-06-30,Monthly,11.8,30367697.0,39.91,East,6,2020,2 First wave / lockdown
+Jharkhand,2020-07-31,Monthly,9.9,31981434.0,41.31,East,7,2020,3 Recovery
+Jharkhand,2020-08-31,Monthly,10.99,31999235.0,41.59,East,8,2020,3 Recovery
+Jharkhand,2020-09-30,Monthly,8.95,32264499.0,41.31,East,9,2020,3 Recovery
+Jharkhand,2020-10-31,Monthly,8.9,32357597.0,41.17,East,10,2020,3 Recovery
+Jharkhand,2020-11-30,Monthly,8.94,30317009.0,39.15,East,11,2020,3 Recovery
+Jharkhand,2020-12-31,Monthly,8.46,32098043.0,40.75,East,12,2020,3 Recovery
+Jharkhand,2021-01-31,Monthly,7.28,32000692.0,40.35,East,1,2021,3 Recovery
+Jharkhand,2021-02-28,Monthly,9.22,33259828.0,42.65,East,2,2021,3 Recovery
+Jharkhand,2021-03-31,Monthly,8.54,31065544.0,40.14,East,3,2021,3 Recovery
+Jharkhand,2021-04-30,Monthly,11.79,30244968.0,39.78,East,4,2021,4 Second wave
+Jharkhand,2021-05-31,Monthly,13.97,29287986.0,39.41,East,5,2021,4 Second wave
+Jharkhand,2021-06-30,Monthly,12.12,30619558.0,40.93,East,6,2021,4 Second wave
+Jharkhand,2021-07-31,Monthly,9.49,31701107.0,40.34,East,7,2021,4 Second wave
+Jharkhand,2021-08-31,Monthly,9.13,31130824.0,39.84,East,8,2021,5 Post second wave
+Jharkhand,2021-09-30,Monthly,8.35,32871084.0,41.64,East,9,2021,5 Post second wave
+Jharkhand,2021-10-31,Monthly,8.58,33060884.0,42.03,East,10,2021,5 Post second wave
+Jharkhand,2021-11-30,Monthly,8.38,34483333.0,42.79,East,11,2021,5 Post second wave
+Jharkhand,2021-12-31,Monthly,7.97,32525457.0,40.37,East,12,2021,5 Post second wave
+Karnataka,2019-01-31,Monthly,3.41,10041073.0,45.55,South,1,2019,1 Pre-COVID
+Karnataka,2019-02-28,Monthly,3.72,9867137.0,45.4,South,2,2019,1 Pre-COVID
+Karnataka,2019-03-31,Monthly,3.65,10120308.0,45.19,South,3,2019,1 Pre-COVID
+Karnataka,2019-04-30,Monthly,3.96,10167660.0,46.82,South,4,2019,1 Pre-COVID
+Karnataka,2019-05-31,Monthly,3.89,9641383.0,45.34,South,5,2019,1 Pre-COVID
+Karnataka,2019-06-30,Monthly,3.57,9496689.0,44.33,South,6,2019,1 Pre-COVID
+Karnataka,2019-07-31,Monthly,3.47,10353396.0,47.22,South,7,2019,1 Pre-COVID
+Karnataka,2019-08-31,Monthly,3.99,10198529.0,46.38,South,8,2019,1 Pre-COVID
+Karnataka,2019-09-30,Monthly,3.5,10267470.0,46.48,South,9,2019,1 Pre-COVID
+Karnataka,2019-10-31,Monthly,3.61,10246598.0,46.51,South,10,2019,1 Pre-COVID
+Karnataka,2019-11-30,Monthly,3.69,9725218.0,44.97,South,11,2019,1 Pre-COVID
+Karnataka,2019-12-31,Monthly,3.91,9984527.5,46.3,South,12,2019,1 Pre-COVID
+Karnataka,2020-01-31,Monthly,3.71,10243837.0,46.52,South,1,2020,1 Pre-COVID
+Karnataka,2020-02-29,Monthly,4.09,10179586.0,47.17,South,2,2020,1 Pre-COVID
+Karnataka,2020-03-31,Monthly,6.03,9663594.0,44.78,South,3,2020,2 First wave / lockdown
+Karnataka,2020-04-30,Monthly,13.02,8075843.0,41.61,South,4,2020,2 First wave / lockdown
+Karnataka,2020-05-31,Monthly,11.77,8336479.0,41.18,South,5,2020,2 First wave / lockdown
+Karnataka,2020-06-30,Monthly,6.09,9534492.0,44.54,South,6,2020,2 First wave / lockdown
+Karnataka,2020-07-31,Monthly,3.77,9989617.0,45.33,South,7,2020,3 Recovery
+Karnataka,2020-08-31,Monthly,4.3,10240540.0,47.31,South,8,2020,3 Recovery
+Karnataka,2020-09-30,Monthly,3.71,10186215.0,46.18,South,9,2020,3 Recovery
+Karnataka,2020-10-31,Monthly,3.44,10092462.0,46.05,South,10,2020,3 Recovery
+Karnataka,2020-11-30,Monthly,3.23,10358071.0,46.8,South,11,2020,3 Recovery
+Karnataka,2020-12-31,Monthly,3.9,10517721.0,47.47,South,12,2020,3 Recovery
+Karnataka,2021-01-31,Monthly,3.22,10169222.0,46.53,South,1,2021,3 Recovery
+Karnataka,2021-02-28,Monthly,3.33,10186151.0,45.63,South,2,2021,3 Recovery
+Karnataka,2021-03-31,Monthly,3.69,10164431.0,45.89,South,3,2021,3 Recovery
+Karnataka,2021-04-30,Monthly,4.31,9579445.0,43.71,South,4,2021,4 Second wave
+Karnataka,2021-05-31,Monthly,6.52,9458407.0,45.12,South,5,2021,4 Second wave
+Karnataka,2021-06-30,Monthly,4.95,10315585.0,47.36,South,6,2021,4 Second wave
+Karnataka,2021-07-31,Monthly,3.78,9931053.0,45.6,South,7,2021,4 Second wave
+Karnataka,2021-08-31,Monthly,3.3,10238301.0,46.2,South,8,2021,5 Post second wave
+Karnataka,2021-09-30,Monthly,3.06,9915673.0,45.54,South,9,2021,5 Post second wave
+Karnataka,2021-10-31,Monthly,3.06,9980764.0,46.27,South,10,2021,5 Post second wave
+Karnataka,2021-11-30,Monthly,3.44,10269997.0,46.92,South,11,2021,5 Post second wave
+Karnataka,2021-12-31,Monthly,3.02,10090172.0,45.23,South,12,2021,5 Post second wave
+Kerala,2019-01-31,Monthly,7.99,22957136.0,39.06,South,1,2019,1 Pre-COVID
+Kerala,2019-02-28,Monthly,7.91,23665797.0,40.32,South,2,2019,1 Pre-COVID
+Kerala,2019-03-31,Monthly,9.3,22984320.0,39.84,South,3,2019,1 Pre-COVID
+Kerala,2019-04-30,Monthly,7.82,23741898.0,40.95,South,4,2019,1 Pre-COVID
+Kerala,2019-05-31,Monthly,8.36,22856186.0,39.98,South,5,2019,1 Pre-COVID
+Kerala,2019-06-30,Monthly,8.68,23666149.0,40.77,South,6,2019,1 Pre-COVID
+Kerala,2019-07-31,Monthly,7.47,23572061.0,39.9,South,7,2019,1 Pre-COVID
+Kerala,2019-08-31,Monthly,7.25,23207056.0,39.14,South,8,2019,1 Pre-COVID
+Kerala,2019-09-30,Monthly,8.28,23876887.0,40.33,South,9,2019,1 Pre-COVID
+Kerala,2019-10-31,Monthly,8.46,24146621.0,40.53,South,10,2019,1 Pre-COVID
+Kerala,2019-11-30,Monthly,8.3,22973320.0,39.36,South,11,2019,1 Pre-COVID
+Kerala,2019-12-31,Monthly,8.78,22642649.0,39.58,South,12,2019,1 Pre-COVID
+Kerala,2020-01-31,Monthly,9.25,22984193.0,40.26,South,1,2020,1 Pre-COVID
+Kerala,2020-02-29,Monthly,8.68,23040459.0,39.91,South,2,2020,1 Pre-COVID
+Kerala,2020-03-31,Monthly,12.0,21457627.0,38.34,South,3,2020,2 First wave / lockdown
+Kerala,2020-04-30,Monthly,26.83,17009010.0,36.82,South,4,2020,2 First wave / lockdown
+Kerala,2020-05-31,Monthly,22.42,17975531.0,36.66,South,5,2020,2 First wave / lockdown
+Kerala,2020-06-30,Monthly,11.6,22066147.0,40.08,South,6,2020,2 First wave / lockdown
+Kerala,2020-07-31,Monthly,9.07,22914525.0,39.62,South,7,2020,3 Recovery
+Kerala,2020-08-31,Monthly,8.73,23902886.0,40.82,South,8,2020,3 Recovery
+Kerala,2020-09-30,Monthly,8.19,22800263.0,38.87,South,9,2020,3 Recovery
+Kerala,2020-10-31,Monthly,8.02,22607405.0,38.79,South,10,2020,3 Recovery
+Kerala,2020-11-30,Monthly,7.74,23783988.0,40.61,South,11,2020,3 Recovery
+Kerala,2020-12-31,Monthly,8.46,24211664.0,41.23,South,12,2020,3 Recovery
+Kerala,2021-01-31,Monthly,6.11,23705690.0,39.91,South,1,2021,3 Recovery
+Kerala,2021-02-28,Monthly,6.66,24097588.0,40.24,South,2,2021,3 Recovery
+Kerala,2021-03-31,Monthly,7.48,23441741.0,40.35,South,3,2021,3 Recovery
+Kerala,2021-04-30,Monthly,10.22,23070945.0,40.77,South,4,2021,4 Second wave
+Kerala,2021-05-31,Monthly,13.92,20880475.0,37.58,South,5,2021,4 Second wave
+Kerala,2021-06-30,Monthly,11.0,22381193.0,39.46,South,6,2021,4 Second wave
+Kerala,2021-07-31,Monthly,7.55,23910984.0,40.95,South,7,2021,4 Second wave
+Kerala,2021-08-31,Monthly,8.21,22886120.0,39.57,South,8,2021,5 Post second wave
+Kerala,2021-09-30,Monthly,7.735,23714805.0,40.33,South,9,2021,5 Post second wave
+Kerala,2021-10-31,Monthly,7.26,23763498.0,40.6,South,10,2021,5 Post second wave
+Kerala,2021-11-30,Monthly,8.38,22889169.0,38.93,South,11,2021,5 Post second wave
+Kerala,2021-12-31,Monthly,8.53,23375158.0,39.44,South,12,2021,5 Post second wave
+Madhya Pradesh,2019-01-31,Monthly,4.35,27771644.0,48.03,Central,1,2019,1 Pre-COVID
+Madhya Pradesh,2019-02-28,Monthly,4.1,28500238.0,48.37,Central,2,2019,1 Pre-COVID
+Madhya Pradesh,2019-03-31,Monthly,4.28,27553556.0,47.13,Central,3,2019,1 Pre-COVID
+Madhya Pradesh,2019-04-30,Monthly,4.56,28328534.0,48.63,Central,4,2019,1 Pre-COVID
+Madhya Pradesh,2019-05-31,Monthly,4.29,27078476.0,47.11,Central,5,2019,1 Pre-COVID
+Madhya Pradesh,2019-06-30,Monthly,3.9,28056180.0,48.23,Central,6,2019,1 Pre-COVID
+Madhya Pradesh,2019-07-31,Monthly,4.04,25928173.0,45.16,Central,7,2019,1 Pre-COVID
+Madhya Pradesh,2019-08-31,Monthly,4.39,27535169.0,47.36,Central,8,2019,1 Pre-COVID
+Madhya Pradesh,2019-09-30,Monthly,3.77,28748798.0,49.38,Central,9,2019,1 Pre-COVID
+Madhya Pradesh,2019-10-31,Monthly,4.23,29590196.0,50.23,Central,10,2019,1 Pre-COVID
+Madhya Pradesh,2019-11-30,Monthly,4.16,27451192.0,47.43,Central,11,2019,1 Pre-COVID
+Madhya Pradesh,2019-12-31,Monthly,4.45,27618227.0,47.9,Central,12,2019,1 Pre-COVID
+Madhya Pradesh,2020-01-31,Monthly,4.47,28355110.0,47.89,Central,1,2020,1 Pre-COVID
+Madhya Pradesh,2020-02-29,Monthly,4.18,28965116.0,49.71,Central,2,2020,1 Pre-COVID
+Madhya Pradesh,2020-03-31,Monthly,8.54,26261454.0,46.55,Central,3,2020,2 First wave / lockdown
+Madhya Pradesh,2020-04-30,Monthly,12.9,23566308.0,44.64,Central,4,2020,2 First wave / lockdown
+Madhya Pradesh,2020-05-31,Monthly,10.74,23000565.0,43.15,Central,5,2020,2 First wave / lockdown
+Madhya Pradesh,2020-06-30,Monthly,5.25,27479780.0,47.34,Central,6,2020,2 First wave / lockdown
+Madhya Pradesh,2020-07-31,Monthly,4.34,26459074.0,45.74,Central,7,2020,3 Recovery
+Madhya Pradesh,2020-08-31,Monthly,4.62,28309381.0,49.71,Central,8,2020,3 Recovery
+Madhya Pradesh,2020-09-30,Monthly,3.84,29108258.0,49.74,Central,9,2020,3 Recovery
+Madhya Pradesh,2020-10-31,Monthly,4.1,28101007.0,48.21,Central,10,2020,3 Recovery
+Madhya Pradesh,2020-11-30,Monthly,4.04,27807306.0,47.41,Central,11,2020,3 Recovery
+Madhya Pradesh,2020-12-31,Monthly,3.86,28226214.0,48.37,Central,12,2020,3 Recovery
+Madhya Pradesh,2021-01-31,Monthly,3.61,27957129.0,48.17,Central,1,2021,3 Recovery
+Madhya Pradesh,2021-02-28,Monthly,3.54,27656357.0,47.85,Central,2,2021,3 Recovery
+Madhya Pradesh,2021-03-31,Monthly,4.13,27488958.0,46.99,Central,3,2021,3 Recovery
+Madhya Pradesh,2021-04-30,Monthly,4.91,26896530.0,46.98,Central,4,2021,4 Second wave
+Madhya Pradesh,2021-05-31,Monthly,7.21,26453439.0,47.16,Central,5,2021,4 Second wave
+Madhya Pradesh,2021-06-30,Monthly,5.44,26064997.0,45.52,Central,6,2021,4 Second wave
+Madhya Pradesh,2021-07-31,Monthly,4.65,27822000.0,48.13,Central,7,2021,4 Second wave
+Madhya Pradesh,2021-08-31,Monthly,4.32,27735025.0,48.82,Central,8,2021,5 Post second wave
+Madhya Pradesh,2021-09-30,Monthly,3.43,28089081.0,48.36,Central,9,2021,5 Post second wave
+Madhya Pradesh,2021-10-31,Monthly,4.0,27336791.0,47.93,Central,10,2021,5 Post second wave
+Madhya Pradesh,2021-11-30,Monthly,3.5,26586275.0,45.58,Central,11,2021,5 Post second wave
+Madhya Pradesh,2021-12-31,Monthly,3.97,28078835.0,47.74,Central,12,2021,5 Post second wave
+Maharashtra,2019-01-31,Monthly,4.07,8744437.0,41.16,West,1,2019,1 Pre-COVID
+Maharashtra,2019-02-28,Monthly,4.29,9202912.0,43.27,West,2,2019,1 Pre-COVID
+Maharashtra,2019-03-31,Monthly,3.94,8926485.5,44.73,West,3,2019,1 Pre-COVID
+Maharashtra,2019-04-30,Monthly,4.35,8650059.0,41.55,West,4,2019,1 Pre-COVID
+Maharashtra,2019-05-31,Monthly,4.76,9041483.0,42.78,West,5,2019,1 Pre-COVID
+Maharashtra,2019-06-30,Monthly,4.38,9152872.0,42.91,West,6,2019,1 Pre-COVID
+Maharashtra,2019-07-31,Monthly,4.09,8682443.0,41.47,West,7,2019,1 Pre-COVID
+Maharashtra,2019-08-31,Monthly,4.25,8990190.0,43.34,West,8,2019,1 Pre-COVID
+Maharashtra,2019-09-30,Monthly,3.93,8952635.0,42.5,West,9,2019,1 Pre-COVID
+Maharashtra,2019-10-31,Monthly,3.81,8922834.0,42.46,West,10,2019,1 Pre-COVID
+Maharashtra,2019-11-30,Monthly,4.43,9176972.0,43.7,West,11,2019,1 Pre-COVID
+Maharashtra,2019-12-31,Monthly,4.22,9015199.0,43.12,West,12,2019,1 Pre-COVID
+Maharashtra,2020-01-31,Monthly,3.83,8873233.0,42.19,West,1,2020,1 Pre-COVID
+Maharashtra,2020-02-29,Monthly,3.86,9193825.0,43.14,West,2,2020,1 Pre-COVID
+Maharashtra,2020-03-31,Monthly,5.66,8769994.0,42.33,West,3,2020,2 First wave / lockdown
+Maharashtra,2020-04-30,Monthly,15.45,7189404.0,39.21,West,4,2020,2 First wave / lockdown
+Maharashtra,2020-05-31,Monthly,12.9,7699219.0,39.76,West,5,2020,2 First wave / lockdown
+Maharashtra,2020-06-30,Monthly,5.54,8383555.5,42.6,West,6,2020,2 First wave / lockdown
+Maharashtra,2020-07-31,Monthly,4.36,9067892.0,43.39,West,7,2020,3 Recovery
+Maharashtra,2020-08-31,Monthly,4.81,8460723.0,41.36,West,8,2020,3 Recovery
+Maharashtra,2020-09-30,Monthly,4.08,8875432.0,42.24,West,9,2020,3 Recovery
+Maharashtra,2020-10-31,Monthly,3.58,8869488.0,41.87,West,10,2020,3 Recovery
+Maharashtra,2020-11-30,Monthly,3.57,9273280.0,43.5,West,11,2020,3 Recovery
+Maharashtra,2020-12-31,Monthly,4.25,9259576.0,43.26,West,12,2020,3 Recovery
+Maharashtra,2021-01-31,Monthly,3.39,9273098.0,43.12,West,1,2021,3 Recovery
+Maharashtra,2021-02-28,Monthly,3.93,8840369.0,41.94,West,2,2021,3 Recovery
+Maharashtra,2021-03-31,Monthly,4.31,9184064.0,43.52,West,3,2021,3 Recovery
+Maharashtra,2021-04-30,Monthly,5.53,8807764.0,42.24,West,4,2021,4 Second wave
+Maharashtra,2021-05-31,Monthly,7.35,9013978.0,41.93,West,5,2021,4 Second wave
+Maharashtra,2021-06-30,Monthly,5.38,9220192.0,43.02,West,6,2021,4 Second wave
+Maharashtra,2021-07-31,Monthly,3.71,9101471.0,43.28,West,7,2021,4 Second wave
+Maharashtra,2021-08-31,Monthly,4.35,9121576.0,43.01,West,8,2021,5 Post second wave
+Maharashtra,2021-09-30,Monthly,3.98,9254657.0,43.3,West,9,2021,5 Post second wave
+Maharashtra,2021-10-31,Monthly,3.06,9546903.0,44.58,West,10,2021,5 Post second wave
+Maharashtra,2021-11-30,Monthly,3.86,8844374.0,42.15,West,11,2021,5 Post second wave
+Maharashtra,2021-12-31,Monthly,3.94,9142110.0,43.12,West,12,2021,5 Post second wave
+Meghalaya,2019-01-31,Monthly,2.21,56450037.0,61.17,North-East,1,2019,1 Pre-COVID
+Meghalaya,2019-02-28,Monthly,2.47,55857801.0,58.23,North-East,2,2019,1 Pre-COVID
+Meghalaya,2019-03-31,Monthly,2.18,55265565.0,60.78,North-East,3,2019,1 Pre-COVID
+Meghalaya,2019-04-30,Monthly,2.61,55654372.0,59.86,North-East,4,2019,1 Pre-COVID
+Meghalaya,2019-05-31,Monthly,2.6,54107506.0,59.17,North-East,5,2019,1 Pre-COVID
+Meghalaya,2019-06-30,Monthly,2.8,55410859.0,60.64,North-East,6,2019,1 Pre-COVID
+Meghalaya,2019-07-31,Monthly,2.46,53701579.0,58.12,North-East,7,2019,1 Pre-COVID
+Meghalaya,2019-08-31,Monthly,2.21,56271332.0,60.9,North-East,8,2019,1 Pre-COVID
+Meghalaya,2019-09-30,Monthly,2.82,53753403.0,58.68,North-East,9,2019,1 Pre-COVID
+Meghalaya,2019-10-31,Monthly,2.77,55971921.0,61.43,North-East,10,2019,1 Pre-COVID
+Meghalaya,2019-11-30,Monthly,2.58,55314301.0,60.0,North-East,11,2019,1 Pre-COVID
+Meghalaya,2019-12-31,Monthly,2.49,54229354.0,59.89,North-East,12,2019,1 Pre-COVID
+Meghalaya,2020-01-31,Monthly,2.49,55577979.0,60.54,North-East,1,2020,1 Pre-COVID
+Meghalaya,2020-02-29,Monthly,2.25,56641277.0,61.19,North-East,2,2020,1 Pre-COVID
+Meghalaya,2020-03-31,Monthly,2.92,52973415.0,58.71,North-East,3,2020,2 First wave / lockdown
+Meghalaya,2020-04-30,Monthly,5.1,49068649.0,54.13,North-East,4,2020,2 First wave / lockdown
+Meghalaya,2020-05-31,Monthly,4.91,50114551.0,56.15,North-East,5,2020,2 First wave / lockdown
+Meghalaya,2020-06-30,Monthly,3.16,54267508.0,58.87,North-East,6,2020,2 First wave / lockdown
+Meghalaya,2020-07-31,Monthly,2.48,52634721.0,58.0,North-East,7,2020,3 Recovery
+Meghalaya,2020-08-31,Monthly,2.57,53680858.0,58.15,North-East,8,2020,3 Recovery
+Meghalaya,2020-09-30,Monthly,2.34,57025361.0,62.98,North-East,9,2020,3 Recovery
+Meghalaya,2020-10-31,Monthly,2.46,53818471.0,58.76,North-East,10,2020,3 Recovery
+Meghalaya,2020-11-30,Monthly,2.44,53003276.0,57.44,North-East,11,2020,3 Recovery
+Meghalaya,2020-12-31,Monthly,2.85,54712496.0,59.53,North-East,12,2020,3 Recovery
+Meghalaya,2021-01-31,Monthly,2.49,54925449.0,60.04,North-East,1,2021,3 Recovery
+Meghalaya,2021-02-28,Monthly,2.05,56330146.0,61.01,North-East,2,2021,3 Recovery
+Meghalaya,2021-03-31,Monthly,2.33,55223838.0,60.27,North-East,3,2021,3 Recovery
+Meghalaya,2021-04-30,Monthly,2.83,54388538.0,60.12,North-East,4,2021,4 Second wave
+Meghalaya,2021-05-31,Monthly,3.62,51426421.0,56.92,North-East,5,2021,4 Second wave
+Meghalaya,2021-06-30,Monthly,3.26,55502517.0,60.74,North-East,6,2021,4 Second wave
+Meghalaya,2021-07-31,Monthly,2.36,54739180.0,59.36,North-East,7,2021,4 Second wave
+Meghalaya,2021-08-31,Monthly,2.5,55040570.0,59.84,North-East,8,2021,5 Post second wave
+Meghalaya,2021-09-30,Monthly,2.34,53591178.0,58.46,North-East,9,2021,5 Post second wave
+Meghalaya,2021-10-31,Monthly,2.3099999999999996,53860967.0,58.64,North-East,10,2021,5 Post second wave
+Meghalaya,2021-11-30,Monthly,2.28,55501695.0,60.42,North-East,11,2021,5 Post second wave
+Meghalaya,2021-12-31,Monthly,2.71,55084845.0,60.8,North-East,12,2021,5 Post second wave
+Odisha,2019-01-31,Monthly,3.14,41041848.0,45.47,East,1,2019,1 Pre-COVID
+Odisha,2019-02-28,Monthly,3.23,41765717.0,46.82,East,2,2019,1 Pre-COVID
+Odisha,2019-03-31,Monthly,3.27,40562866.0,45.4,East,3,2019,1 Pre-COVID
+Odisha,2019-04-30,Monthly,3.69,42386763.0,46.58,East,4,2019,1 Pre-COVID
+Odisha,2019-05-31,Monthly,3.97,40219396.0,45.05,East,5,2019,1 Pre-COVID
+Odisha,2019-06-30,Monthly,3.22,40457972.0,45.28,East,6,2019,1 Pre-COVID
+Odisha,2019-07-31,Monthly,3.12,40471865.0,45.03,East,7,2019,1 Pre-COVID
+Odisha,2019-08-31,Monthly,3.05,41739452.0,46.77,East,8,2019,1 Pre-COVID
+Odisha,2019-09-30,Monthly,3.84,40748234.0,45.58,East,9,2019,1 Pre-COVID
+Odisha,2019-10-31,Monthly,3.07,43314506.0,47.57,East,10,2019,1 Pre-COVID
+Odisha,2019-11-30,Monthly,3.45,40230130.0,44.76,East,11,2019,1 Pre-COVID
+Odisha,2019-12-31,Monthly,3.23,42906726.0,47.35,East,12,2019,1 Pre-COVID
+Odisha,2020-01-31,Monthly,3.31,38918061.0,43.76,East,1,2020,1 Pre-COVID
+Odisha,2020-02-29,Monthly,3.46,42722431.0,47.12,East,2,2020,1 Pre-COVID
+Odisha,2020-03-31,Monthly,4.17,40950141.0,45.54,East,3,2020,2 First wave / lockdown
+Odisha,2020-04-30,Monthly,9.18,35487525.0,41.95,East,4,2020,2 First wave / lockdown
+Odisha,2020-05-31,Monthly,9.19,37627467.5,40.93,East,5,2020,2 First wave / lockdown
+Odisha,2020-06-30,Monthly,4.61,39767410.0,45.13,East,6,2020,2 First wave / lockdown
+Odisha,2020-07-31,Monthly,3.38,41353968.0,45.87,East,7,2020,3 Recovery
+Odisha,2020-08-31,Monthly,3.67,40621095.0,45.35,East,8,2020,3 Recovery
+Odisha,2020-09-30,Monthly,2.78,42023475.0,46.53,East,9,2020,3 Recovery
+Odisha,2020-10-31,Monthly,2.75,41426195.0,46.98,East,10,2020,3 Recovery
+Odisha,2020-11-30,Monthly,2.72,41960430.0,46.44,East,11,2020,3 Recovery
+Odisha,2020-12-31,Monthly,3.4,41218425.0,45.63,East,12,2020,3 Recovery
+Odisha,2021-01-31,Monthly,3.16,41838987.0,46.63,East,1,2021,3 Recovery
+Odisha,2021-02-28,Monthly,2.65,42929354.0,46.89,East,2,2021,3 Recovery
+Odisha,2021-03-31,Monthly,3.37,40922784.0,45.28,East,3,2021,3 Recovery
+Odisha,2021-04-30,Monthly,4.45,41316561.0,46.96,East,4,2021,4 Second wave
+Odisha,2021-05-31,Monthly,5.3,40112037.0,46.44,East,5,2021,4 Second wave
+Odisha,2021-06-30,Monthly,3.95,41206983.0,45.92,East,6,2021,4 Second wave
+Odisha,2021-07-31,Monthly,3.34,41378080.0,46.2,East,7,2021,4 Second wave
+Odisha,2021-08-31,Monthly,3.65,40162891.0,45.14,East,8,2021,5 Post second wave
+Odisha,2021-09-30,Monthly,3.06,41655941.0,46.96,East,9,2021,5 Post second wave
+Odisha,2021-10-31,Monthly,2.74,40074510.0,44.34,East,10,2021,5 Post second wave
+Odisha,2021-11-30,Monthly,2.83,41677546.0,45.87,East,11,2021,5 Post second wave
+Odisha,2021-12-31,Monthly,3.09,41612248.0,46.36,East,12,2021,5 Post second wave
+Puducherry,2019-01-31,Monthly,1.77,8296128.0,37.47,South,1,2019,1 Pre-COVID
+Puducherry,2019-02-28,Monthly,1.77,8368089.0,38.3,South,2,2019,1 Pre-COVID
+Puducherry,2019-03-31,Monthly,1.77,8354392.0,37.18,South,3,2019,1 Pre-COVID
+Puducherry,2019-04-30,Monthly,1.84,8476478.0,38.22,South,4,2019,1 Pre-COVID
+Puducherry,2019-05-31,Monthly,1.73,8506590.0,38.52,South,5,2019,1 Pre-COVID
+Puducherry,2019-06-30,Monthly,1.76,8520130.0,38.66,South,6,2019,1 Pre-COVID
+Puducherry,2019-07-31,Monthly,1.6,8145481.0,37.09,South,7,2019,1 Pre-COVID
+Puducherry,2019-08-31,Monthly,1.47,8724573.0,38.55,South,8,2019,1 Pre-COVID
+Puducherry,2019-09-30,Monthly,1.79,8203959.0,36.76,South,9,2019,1 Pre-COVID
+Puducherry,2019-10-31,Monthly,1.81,8348720.0,37.65,South,10,2019,1 Pre-COVID
+Puducherry,2019-11-30,Monthly,1.49,8398711.0,38.2,South,11,2019,1 Pre-COVID
+Puducherry,2019-12-31,Monthly,1.75,8203058.0,36.81,South,12,2019,1 Pre-COVID
+Puducherry,2020-01-31,Monthly,1.75,8195932.0,37.4,South,1,2020,1 Pre-COVID
+Puducherry,2020-02-29,Monthly,1.45,8353897.0,37.8,South,2,2020,1 Pre-COVID
+Puducherry,2020-03-31,Monthly,2.77,8238195.0,37.73,South,3,2020,2 First wave / lockdown
+Puducherry,2020-04-30,Monthly,8.65,7137925.0,34.27,South,4,2020,2 First wave / lockdown
+Puducherry,2020-05-31,Monthly,8.6,7265163.0,35.02,South,5,2020,2 First wave / lockdown
+Puducherry,2020-06-30,Monthly,2.9,8207702.0,37.42,South,6,2020,2 First wave / lockdown
+Puducherry,2020-07-31,Monthly,2.5549999999999997,8409682.0,38.25,South,7,2020,3 Recovery
+Puducherry,2020-08-31,Monthly,2.21,8149133.0,38.19,South,8,2020,3 Recovery
+Puducherry,2020-09-30,Monthly,1.59,7888584.0,35.76,South,9,2020,3 Recovery
+Puducherry,2020-10-31,Monthly,1.59,8275782.0,37.83,South,10,2020,3 Recovery
+Puducherry,2020-11-30,Monthly,1.27,8504913.0,38.94,South,11,2020,3 Recovery
+Puducherry,2020-12-31,Monthly,1.74,8323330.0,38.0,South,12,2020,3 Recovery
+Puducherry,2021-01-31,Monthly,1.27,8396068.0,37.38,South,1,2021,3 Recovery
+Puducherry,2021-02-28,Monthly,1.39,8161780.0,36.84,South,2,2021,3 Recovery
+Puducherry,2021-03-31,Monthly,1.45,8566395.0,39.06,South,3,2021,3 Recovery
+Puducherry,2021-04-30,Monthly,2.85,8143475.0,37.59,South,4,2021,4 Second wave
+Puducherry,2021-05-31,Monthly,3.69,7827598.0,36.49,South,5,2021,4 Second wave
+Puducherry,2021-06-30,Monthly,2.61,7885877.0,36.7,South,6,2021,4 Second wave
+Puducherry,2021-07-31,Monthly,1.63,8067382.0,36.63,South,7,2021,4 Second wave
+Puducherry,2021-08-31,Monthly,1.62,8445244.0,37.31,South,8,2021,5 Post second wave
+Puducherry,2021-09-30,Monthly,1.39,8370258.0,38.31,South,9,2021,5 Post second wave
+Puducherry,2021-10-31,Monthly,1.22,8457557.0,38.35,South,10,2021,5 Post second wave
+Puducherry,2021-11-30,Monthly,1.36,8267804.0,37.26,South,11,2021,5 Post second wave
+Puducherry,2021-12-31,Monthly,1.36,8452071.0,38.25,South,12,2021,5 Post second wave
+Punjab,2019-01-31,Monthly,8.04,11645161.0,40.4,North,1,2019,1 Pre-COVID
+Punjab,2019-02-28,Monthly,8.35,11650864.0,40.93,North,2,2019,1 Pre-COVID
+Punjab,2019-03-31,Monthly,8.79,11575033.0,40.81,North,3,2019,1 Pre-COVID
+Punjab,2019-04-30,Monthly,8.62,11922664.0,42.39,North,4,2019,1 Pre-COVID
+Punjab,2019-05-31,Monthly,9.03,11218354.0,39.45,North,5,2019,1 Pre-COVID
+Punjab,2019-06-30,Monthly,9.35,11727406.0,41.4,North,6,2019,1 Pre-COVID
+Punjab,2019-07-31,Monthly,7.97,11749014.0,41.03,North,7,2019,1 Pre-COVID
+Punjab,2019-08-31,Monthly,7.78,11750292.0,40.76,North,8,2019,1 Pre-COVID
+Punjab,2019-09-30,Monthly,7.79,11446227.0,40.34,North,9,2019,1 Pre-COVID
+Punjab,2019-10-31,Monthly,8.42,11867780.0,41.45,North,10,2019,1 Pre-COVID
+Punjab,2019-11-30,Monthly,8.87,11721342.0,41.07,North,11,2019,1 Pre-COVID
+Punjab,2019-12-31,Monthly,8.72,11592051.0,40.92,North,12,2019,1 Pre-COVID
+Punjab,2020-01-31,Monthly,9.21,11430776.0,40.63,North,1,2020,1 Pre-COVID
+Punjab,2020-02-29,Monthly,8.45,11603593.0,41.21,North,2,2020,1 Pre-COVID
+Punjab,2020-03-31,Monthly,12.04,10926787.0,40.27,North,3,2020,2 First wave / lockdown
+Punjab,2020-04-30,Monthly,17.835,8787108.0,37.86,North,4,2020,2 First wave / lockdown
+Punjab,2020-05-31,Monthly,23.63,9143091.0,38.38,North,5,2020,2 First wave / lockdown
+Punjab,2020-06-30,Monthly,12.57,11035100.0,40.47,North,6,2020,2 First wave / lockdown
+Punjab,2020-07-31,Monthly,8.27,11902279.0,41.39,North,7,2020,3 Recovery
+Punjab,2020-08-31,Monthly,9.23,11371962.0,40.11,North,8,2020,3 Recovery
+Punjab,2020-09-30,Monthly,7.76,11336292.0,39.99,North,9,2020,3 Recovery
+Punjab,2020-10-31,Monthly,8.13,11183498.0,38.94,North,10,2020,3 Recovery
+Punjab,2020-11-30,Monthly,7.44,12136181.0,42.24,North,11,2020,3 Recovery
+Punjab,2020-12-31,Monthly,8.66,11616839.0,40.72,North,12,2020,3 Recovery
+Punjab,2021-01-31,Monthly,7.76,11852645.0,41.065,North,1,2021,3 Recovery
+Punjab,2021-02-28,Monthly,7.07,12114573.0,41.41,North,2,2021,3 Recovery
+Punjab,2021-03-31,Monthly,8.34,12103833.0,42.66,North,3,2021,3 Recovery
+Punjab,2021-04-30,Monthly,9.59,11294061.0,39.78,North,4,2021,4 Second wave
+Punjab,2021-05-31,Monthly,13.46,11214343.0,40.1,North,5,2021,4 Second wave
+Punjab,2021-06-30,Monthly,10.89,11134625.0,39.6,North,6,2021,4 Second wave
+Punjab,2021-07-31,Monthly,9.61,11713905.0,41.3,North,7,2021,4 Second wave
+Punjab,2021-08-31,Monthly,8.06,11256519.0,39.48,North,8,2021,5 Post second wave
+Punjab,2021-09-30,Monthly,7.09,11775720.0,39.94,North,9,2021,5 Post second wave
+Punjab,2021-10-31,Monthly,7.48,11943264.0,41.51,North,10,2021,5 Post second wave
+Punjab,2021-11-30,Monthly,7.43,12121643.0,41.99,North,11,2021,5 Post second wave
+Punjab,2021-12-31,Monthly,8.21,11691455.0,40.97,North,12,2021,5 Post second wave
+Rajasthan,2019-01-31,Monthly,10.0,9811944.0,39.79,North,1,2019,1 Pre-COVID
+Rajasthan,2019-02-28,Monthly,10.56,9795352.0,39.97,North,2,2019,1 Pre-COVID
+Rajasthan,2019-03-31,Monthly,10.18,9697749.0,39.27,North,3,2019,1 Pre-COVID
+Rajasthan,2019-04-30,Monthly,12.11,9419579.0,39.08,North,4,2019,1 Pre-COVID
+Rajasthan,2019-05-31,Monthly,12.66,9706602.0,40.62,North,5,2019,1 Pre-COVID
+Rajasthan,2019-06-30,Monthly,11.53,9613093.0,39.5,North,6,2019,1 Pre-COVID
+Rajasthan,2019-07-31,Monthly,11.54,9825084.0,40.5,North,7,2019,1 Pre-COVID
+Rajasthan,2019-08-31,Monthly,11.83,9752541.0,40.08,North,8,2019,1 Pre-COVID
+Rajasthan,2019-09-30,Monthly,11.86,9327552.0,39.36,North,9,2019,1 Pre-COVID
+Rajasthan,2019-10-31,Monthly,12.41,9478051.0,40.21,North,10,2019,1 Pre-COVID
+Rajasthan,2019-11-30,Monthly,11.15,9854633.0,40.62,North,11,2019,1 Pre-COVID
+Rajasthan,2019-12-31,Monthly,11.5,9860814.0,41.12,North,12,2019,1 Pre-COVID
+Rajasthan,2020-01-31,Monthly,10.78,9852899.0,40.17,North,1,2020,1 Pre-COVID
+Rajasthan,2020-02-29,Monthly,11.73,9864377.0,40.73,North,2,2020,1 Pre-COVID
+Rajasthan,2020-03-31,Monthly,21.630000000000003,8973504.0,39.16,North,3,2020,2 First wave / lockdown
+Rajasthan,2020-04-30,Monthly,31.53,6922257.0,36.64,North,4,2020,2 First wave / lockdown
+Rajasthan,2020-05-31,Monthly,30.28,7005119.0,36.99,North,5,2020,2 First wave / lockdown
+Rajasthan,2020-06-30,Monthly,16.29,9035121.0,39.34,North,6,2020,2 First wave / lockdown
+Rajasthan,2020-07-31,Monthly,13.44,9402619.0,39.5,North,7,2020,3 Recovery
+Rajasthan,2020-08-31,Monthly,13.68,9637195.0,39.84,North,8,2020,3 Recovery
+Rajasthan,2020-09-30,Monthly,10.52,9805799.0,40.34,North,9,2020,3 Recovery
+Rajasthan,2020-10-31,Monthly,10.64,9940065.0,40.28,North,10,2020,3 Recovery
+Rajasthan,2020-11-30,Monthly,10.71,10057881.0,41.17,North,11,2020,3 Recovery
+Rajasthan,2020-12-31,Monthly,11.29,10294937.0,42.21,North,12,2020,3 Recovery
+Rajasthan,2021-01-31,Monthly,9.78,9691794.0,39.6,North,1,2021,3 Recovery
+Rajasthan,2021-02-28,Monthly,10.87,9743426.0,39.87,North,2,2021,3 Recovery
+Rajasthan,2021-03-31,Monthly,11.03,9823700.0,40.67,North,3,2021,3 Recovery
+Rajasthan,2021-04-30,Monthly,13.74,9452544.0,39.78,North,4,2021,4 Second wave
+Rajasthan,2021-05-31,Monthly,18.78,8600233.0,38.41,North,5,2021,4 Second wave
+Rajasthan,2021-06-30,Monthly,14.01,9140121.0,39.19,North,6,2021,4 Second wave
+Rajasthan,2021-07-31,Monthly,12.26,9791961.0,40.51,North,7,2021,4 Second wave
+Rajasthan,2021-08-31,Monthly,12.33,9961805.0,42.22,North,8,2021,5 Post second wave
+Rajasthan,2021-09-30,Monthly,9.98,9687013.0,39.63,North,9,2021,5 Post second wave
+Rajasthan,2021-10-31,Monthly,9.46,9785298.0,39.95,North,10,2021,5 Post second wave
+Rajasthan,2021-11-30,Monthly,10.49,9808591.5,40.23,North,11,2021,5 Post second wave
+Rajasthan,2021-12-31,Monthly,11.26,9831885.0,40.61,North,12,2021,5 Post second wave
+Sikkim,2019-01-31,Monthly,4.17,21597428.0,53.91,North-East,1,2019,1 Pre-COVID
+Sikkim,2019-02-28,Monthly,3.72,22746037.0,56.02,North-East,2,2019,1 Pre-COVID
+Sikkim,2019-03-31,Monthly,4.12,23713202.0,58.25,North-East,3,2019,1 Pre-COVID
+Sikkim,2019-04-30,Monthly,4.51,21937883.0,54.96,North-East,4,2019,1 Pre-COVID
+Sikkim,2019-05-31,Monthly,4.37,22268805.0,56.19,North-East,5,2019,1 Pre-COVID
+Sikkim,2019-06-30,Monthly,4.28,22592628.0,56.02,North-East,6,2019,1 Pre-COVID
+Sikkim,2019-07-31,Monthly,3.95,22426691.0,55.4,North-East,7,2019,1 Pre-COVID
+Sikkim,2019-08-31,Monthly,4.13,23190695.0,56.68,North-East,8,2019,1 Pre-COVID
+Sikkim,2019-09-30,Monthly,4.04,22582253.0,55.49,North-East,9,2019,1 Pre-COVID
+Sikkim,2019-10-31,Monthly,4.3,22608842.0,55.51,North-East,10,2019,1 Pre-COVID
+Sikkim,2019-11-30,Monthly,4.48,23580870.0,57.45,North-East,11,2019,1 Pre-COVID
+Sikkim,2019-12-31,Monthly,4.1,22685664.0,56.02,North-East,12,2019,1 Pre-COVID
+Sikkim,2020-01-31,Monthly,4.09,22052435.0,55.27,North-East,1,2020,1 Pre-COVID
+Sikkim,2020-02-29,Monthly,4.18,22329385.0,55.14,North-East,2,2020,1 Pre-COVID
+Sikkim,2020-03-31,Monthly,5.32,21596192.0,53.89,North-East,3,2020,2 First wave / lockdown
+Sikkim,2020-04-30,Monthly,11.79,19663221.0,51.66,North-East,4,2020,2 First wave / lockdown
+Sikkim,2020-05-31,Monthly,10.99,19425061.0,52.25,North-East,5,2020,2 First wave / lockdown
+Sikkim,2020-06-30,Monthly,5.26,22532369.0,56.85,North-East,6,2020,2 First wave / lockdown
+Sikkim,2020-07-31,Monthly,4.805,22604890.0,55.84,North-East,7,2020,3 Recovery
+Sikkim,2020-08-31,Monthly,4.35,22618312.0,55.32,North-East,8,2020,3 Recovery
+Sikkim,2020-09-30,Monthly,3.76,22376258.0,54.55,North-East,9,2020,3 Recovery
+Sikkim,2020-10-31,Monthly,4.11,22083559.0,55.42,North-East,10,2020,3 Recovery
+Sikkim,2020-11-30,Monthly,3.73,23096831.0,56.16,North-East,11,2020,3 Recovery
+Sikkim,2020-12-31,Monthly,3.96,22852138.0,55.97,North-East,12,2020,3 Recovery
+Sikkim,2021-01-31,Monthly,3.25,23167734.0,57.39,North-East,1,2021,3 Recovery
+Sikkim,2021-02-28,Monthly,3.9,23176204.0,56.5,North-East,2,2021,3 Recovery
+Sikkim,2021-03-31,Monthly,4.2,21448615.0,53.44,North-East,3,2021,3 Recovery
+Sikkim,2021-04-30,Monthly,5.22,22206122.0,55.22,North-East,4,2021,4 Second wave
+Sikkim,2021-05-31,Monthly,6.73,21739386.0,55.32,North-East,5,2021,4 Second wave
+Sikkim,2021-06-30,Monthly,4.61,22219065.0,54.93,North-East,6,2021,4 Second wave
+Sikkim,2021-07-31,Monthly,4.41,23223758.0,56.71,North-East,7,2021,4 Second wave
+Sikkim,2021-08-31,Monthly,4.21,20974354.0,52.53,North-East,8,2021,5 Post second wave
+Sikkim,2021-09-30,Monthly,4.28,22011919.0,55.57,North-East,9,2021,5 Post second wave
+Sikkim,2021-10-31,Monthly,4.03,23059167.0,56.28,North-East,10,2021,5 Post second wave
+Sikkim,2021-11-30,Monthly,3.9,23126752.0,56.78,North-East,11,2021,5 Post second wave
+Sikkim,2021-12-31,Monthly,4.21,23987301.0,58.74,North-East,12,2021,5 Post second wave
+Tamil Nadu,2019-01-31,Monthly,1.27,8996264.0,46.03,South,1,2019,1 Pre-COVID
+Tamil Nadu,2019-02-28,Monthly,1.22,8980697.0,46.05,South,2,2019,1 Pre-COVID
+Tamil Nadu,2019-03-31,Monthly,1.47,8499739.0,44.32,South,3,2019,1 Pre-COVID
+Tamil Nadu,2019-04-30,Monthly,1.28,8528559.0,44.56,South,4,2019,1 Pre-COVID
+Tamil Nadu,2019-05-31,Monthly,1.1,8662462.0,44.61,South,5,2019,1 Pre-COVID
+Tamil Nadu,2019-06-30,Monthly,1.1533333333333333,9029274.0,46.74,South,6,2019,1 Pre-COVID
+Tamil Nadu,2019-07-31,Monthly,1.2066666666666668,8801769.0,45.24,South,7,2019,1 Pre-COVID
+Tamil Nadu,2019-08-31,Monthly,1.26,8934980.0,46.23,South,8,2019,1 Pre-COVID
+Tamil Nadu,2019-09-30,Monthly,1.27,8729054.0,45.33,South,9,2019,1 Pre-COVID
+Tamil Nadu,2019-10-31,Monthly,1.28,9053856.0,47.01,South,10,2019,1 Pre-COVID
+Tamil Nadu,2019-11-30,Monthly,1.31,9007767.0,46.13,South,11,2019,1 Pre-COVID
+Tamil Nadu,2019-12-31,Monthly,1.3,8316775.0,42.85,South,12,2019,1 Pre-COVID
+Tamil Nadu,2020-01-31,Monthly,1.07,8979551.0,46.32,South,1,2020,1 Pre-COVID
+Tamil Nadu,2020-02-29,Monthly,1.32,8397006.0,44.19,South,2,2020,1 Pre-COVID
+Tamil Nadu,2020-03-31,Monthly,2.59,8390650.0,44.25,South,3,2020,2 First wave / lockdown
+Tamil Nadu,2020-04-30,Monthly,8.4,7825771.0,43.31,South,4,2020,2 First wave / lockdown
+Tamil Nadu,2020-05-31,Monthly,7.94,7726692.0,42.28,South,5,2020,2 First wave / lockdown
+Tamil Nadu,2020-06-30,Monthly,2.57,8077291.0,42.46,South,6,2020,2 First wave / lockdown
+Tamil Nadu,2020-07-31,Monthly,1.47,8472778.0,44.04,South,7,2020,3 Recovery
+Tamil Nadu,2020-08-31,Monthly,1.63,8932339.0,46.07,South,8,2020,3 Recovery
+Tamil Nadu,2020-09-30,Monthly,1.12,8826274.0,45.65,South,9,2020,3 Recovery
+Tamil Nadu,2020-10-31,Monthly,1.11,8329787.0,44.02,South,10,2020,3 Recovery
+Tamil Nadu,2020-11-30,Monthly,0.96,8915891.0,45.47,South,11,2020,3 Recovery
+Tamil Nadu,2020-12-31,Monthly,1.32,8880845.0,46.47,South,12,2020,3 Recovery
+Tamil Nadu,2021-01-31,Monthly,0.91,9065672.0,45.61,South,1,2021,3 Recovery
+Tamil Nadu,2021-02-28,Monthly,1.02,8908907.0,46.19,South,2,2021,3 Recovery
+Tamil Nadu,2021-03-31,Monthly,1.06,8767258.0,45.8,South,3,2021,3 Recovery
+Tamil Nadu,2021-04-30,Monthly,2.08,8649292.0,44.45,South,4,2021,4 Second wave
+Tamil Nadu,2021-05-31,Monthly,3.21,7950050.0,41.78,South,5,2021,4 Second wave
+Tamil Nadu,2021-06-30,Monthly,2.02,8538215.0,44.59,South,6,2021,4 Second wave
+Tamil Nadu,2021-07-31,Monthly,1.23,8696591.0,45.71,South,7,2021,4 Second wave
+Tamil Nadu,2021-08-31,Monthly,1.26,8749762.0,45.58,South,8,2021,5 Post second wave
+Tamil Nadu,2021-09-30,Monthly,0.89,8616596.0,45.75,South,9,2021,5 Post second wave
+Tamil Nadu,2021-10-31,Monthly,0.87,8483430.0,43.44,South,10,2021,5 Post second wave
+Tamil Nadu,2021-11-30,Monthly,0.8,8749719.0,45.5,South,11,2021,5 Post second wave
+Tamil Nadu,2021-12-31,Monthly,0.97,8652214.0,44.75,South,12,2021,5 Post second wave
+Telangana,2019-01-31,Monthly,4.26,35514748.0,49.55,South,1,2019,1 Pre-COVID
+Telangana,2019-02-28,Monthly,4.04,34700316.0,49.3,South,2,2019,1 Pre-COVID
+Telangana,2019-03-31,Monthly,3.82,35727861.0,50.29,South,3,2019,1 Pre-COVID
+Telangana,2019-04-30,Monthly,3.71,34988396.0,49.46,South,4,2019,1 Pre-COVID
+Telangana,2019-05-31,Monthly,4.77,33601254.0,48.3,South,5,2019,1 Pre-COVID
+Telangana,2019-06-30,Monthly,4.61,36044942.0,51.36,South,6,2019,1 Pre-COVID
+Telangana,2019-07-31,Monthly,4.0,35182852.0,50.62,South,7,2019,1 Pre-COVID
+Telangana,2019-08-31,Monthly,3.65,36059320.0,49.72,South,8,2019,1 Pre-COVID
+Telangana,2019-09-30,Monthly,4.0,35488524.5,50.1,South,9,2019,1 Pre-COVID
+Telangana,2019-10-31,Monthly,4.67,34917729.0,49.42,South,10,2019,1 Pre-COVID
+Telangana,2019-11-30,Monthly,4.7,34599305.0,48.48,South,11,2019,1 Pre-COVID
+Telangana,2019-12-31,Monthly,4.06,35545783.0,50.1,South,12,2019,1 Pre-COVID
+Telangana,2020-01-31,Monthly,3.88,35023283.0,49.02,South,1,2020,1 Pre-COVID
+Telangana,2020-02-29,Monthly,4.91,35365953.0,49.87,South,2,2020,1 Pre-COVID
+Telangana,2020-03-31,Monthly,5.94,33885479.0,48.24,South,3,2020,2 First wave / lockdown
+Telangana,2020-04-30,Monthly,13.16,30766945.0,47.97,South,4,2020,2 First wave / lockdown
+Telangana,2020-05-31,Monthly,11.29,31100144.0,46.91,South,5,2020,2 First wave / lockdown
+Telangana,2020-06-30,Monthly,5.68,34307997.0,48.8,South,6,2020,2 First wave / lockdown
+Telangana,2020-07-31,Monthly,4.12,35204294.0,49.49,South,7,2020,3 Recovery
+Telangana,2020-08-31,Monthly,3.8,33961025.0,49.1,South,8,2020,3 Recovery
+Telangana,2020-09-30,Monthly,3.48,34484752.0,48.84,South,9,2020,3 Recovery
+Telangana,2020-10-31,Monthly,3.93,34585065.0,48.91,South,10,2020,3 Recovery
+Telangana,2020-11-30,Monthly,3.68,35996855.0,49.76,South,11,2020,3 Recovery
+Telangana,2020-12-31,Monthly,4.37,35333832.0,50.08,South,12,2020,3 Recovery
+Telangana,2021-01-31,Monthly,3.65,36301184.0,50.53,South,1,2021,3 Recovery
+Telangana,2021-02-28,Monthly,3.58,35177961.0,50.24,South,2,2021,3 Recovery
+Telangana,2021-03-31,Monthly,4.1,36057300.0,50.86,South,3,2021,3 Recovery
+Telangana,2021-04-30,Monthly,5.86,34009450.0,48.63,South,4,2021,4 Second wave
+Telangana,2021-05-31,Monthly,5.59,33652610.0,48.7,South,5,2021,4 Second wave
+Telangana,2021-06-30,Monthly,5.32,35817212.0,50.34,South,6,2021,4 Second wave
+Telangana,2021-07-31,Monthly,4.15,35850607.0,50.82,South,7,2021,4 Second wave
+Telangana,2021-08-31,Monthly,4.38,35254306.0,49.2,South,8,2021,5 Post second wave
+Telangana,2021-09-30,Monthly,4.32,34711229.0,50.04,South,9,2021,5 Post second wave
+Telangana,2021-10-31,Monthly,3.59,36994577.0,51.48,South,10,2021,5 Post second wave
+Telangana,2021-11-30,Monthly,3.84,36711721.0,51.25,South,11,2021,5 Post second wave
+Telangana,2021-12-31,Monthly,4.3,36787935.0,51.08,South,12,2021,5 Post second wave
+Tripura,2019-01-31,Monthly,15.81,27787424.0,49.69,North-East,1,2019,1 Pre-COVID
+Tripura,2019-02-28,Monthly,16.62,28203231.0,50.22,North-East,2,2019,1 Pre-COVID
+Tripura,2019-03-31,Monthly,15.6,27872925.0,49.41,North-East,3,2019,1 Pre-COVID
+Tripura,2019-04-30,Monthly,17.01,27557872.0,50.56,North-East,4,2019,1 Pre-COVID
+Tripura,2019-05-31,Monthly,15.73,29098015.0,51.78,North-East,5,2019,1 Pre-COVID
+Tripura,2019-06-30,Monthly,14.19,29958127.0,51.89,North-East,6,2019,1 Pre-COVID
+Tripura,2019-07-31,Monthly,15.15,28444979.0,49.63,North-East,7,2019,1 Pre-COVID
+Tripura,2019-08-31,Monthly,14.61,29344340.0,51.15,North-East,8,2019,1 Pre-COVID
+Tripura,2019-09-30,Monthly,15.27,28343770.0,50.15,North-East,9,2019,1 Pre-COVID
+Tripura,2019-10-31,Monthly,16.08,27107461.0,49.13,North-East,10,2019,1 Pre-COVID
+Tripura,2019-11-30,Monthly,16.104999999999997,28552129.0,50.63,North-East,11,2019,1 Pre-COVID
+Tripura,2019-12-31,Monthly,16.13,28062939.0,49.68,North-East,12,2019,1 Pre-COVID
+Tripura,2020-01-31,Monthly,15.02,28027589.0,49.51,North-East,1,2020,1 Pre-COVID
+Tripura,2020-02-29,Monthly,16.88,26942113.0,48.27,North-East,2,2020,1 Pre-COVID
+Tripura,2020-03-31,Monthly,19.05,26440226.0,49.09,North-East,3,2020,2 First wave / lockdown
+Tripura,2020-04-30,Monthly,34.73,19966364.0,45.95,North-East,4,2020,2 First wave / lockdown
+Tripura,2020-05-31,Monthly,33.02,21326439.0,46.98,North-East,5,2020,2 First wave / lockdown
+Tripura,2020-06-30,Monthly,22.8,25574164.0,49.55,North-East,6,2020,2 First wave / lockdown
+Tripura,2020-07-31,Monthly,17.05,28914740.0,51.58,North-East,7,2020,3 Recovery
+Tripura,2020-08-31,Monthly,16.23,28054815.0,49.9,North-East,8,2020,3 Recovery
+Tripura,2020-09-30,Monthly,15.625,30104204.0,50.57,North-East,9,2020,3 Recovery
+Tripura,2020-10-31,Monthly,15.02,29343548.0,51.58,North-East,10,2020,3 Recovery
+Tripura,2020-11-30,Monthly,13.99,28834388.0,50.58,North-East,11,2020,3 Recovery
+Tripura,2020-12-31,Monthly,14.52,29722019.0,51.33,North-East,12,2020,3 Recovery
+Tripura,2021-01-31,Monthly,12.89,29761223.0,51.17,North-East,1,2021,3 Recovery
+Tripura,2021-02-28,Monthly,14.05,29387016.0,50.66,North-East,2,2021,3 Recovery
+Tripura,2021-03-31,Monthly,14.84,29404207.0,51.51,North-East,3,2021,3 Recovery
+Tripura,2021-04-30,Monthly,19.89,26619165.0,48.68,North-East,4,2021,4 Second wave
+Tripura,2021-05-31,Monthly,24.43,24593867.0,49.5,North-East,5,2021,4 Second wave
+Tripura,2021-06-30,Monthly,18.43,27729651.0,50.73,North-East,6,2021,4 Second wave
+Tripura,2021-07-31,Monthly,13.57,29315695.0,51.04,North-East,7,2021,4 Second wave
+Tripura,2021-08-31,Monthly,16.52,27876733.0,49.87,North-East,8,2021,5 Post second wave
+Tripura,2021-09-30,Monthly,14.85,27749127.0,49.26,North-East,9,2021,5 Post second wave
+Tripura,2021-10-31,Monthly,13.35,29177860.0,51.07,North-East,10,2021,5 Post second wave
+Tripura,2021-11-30,Monthly,12.46,28326399.5,51.07,North-East,11,2021,5 Post second wave
+Tripura,2021-12-31,Monthly,14.29,27474939.0,48.3,North-East,12,2021,5 Post second wave
+Uttar Pradesh,2019-01-31,Monthly,7.76,30055845.0,37.41,North,1,2019,1 Pre-COVID
+Uttar Pradesh,2019-02-28,Monthly,7.13,30278851.0,37.48,North,2,2019,1 Pre-COVID
+Uttar Pradesh,2019-03-31,Monthly,7.67,29678762.0,37.58,North,3,2019,1 Pre-COVID
+Uttar Pradesh,2019-04-30,Monthly,8.34,30463527.0,39.11,North,4,2019,1 Pre-COVID
+Uttar Pradesh,2019-05-31,Monthly,7.78,29778728.0,38.07,North,5,2019,1 Pre-COVID
+Uttar Pradesh,2019-06-30,Monthly,7.7,30393113.0,38.0,North,6,2019,1 Pre-COVID
+Uttar Pradesh,2019-07-31,Monthly,7.96,29703211.0,37.75,North,7,2019,1 Pre-COVID
+Uttar Pradesh,2019-08-31,Monthly,7.64,29889472.0,37.56,North,8,2019,1 Pre-COVID
+Uttar Pradesh,2019-09-30,Monthly,7.85,29304377.0,37.26,North,9,2019,1 Pre-COVID
+Uttar Pradesh,2019-10-31,Monthly,8.06,30326000.0,37.88,North,10,2019,1 Pre-COVID
+Uttar Pradesh,2019-11-30,Monthly,7.35,31063594.0,38.22,North,11,2019,1 Pre-COVID
+Uttar Pradesh,2019-12-31,Monthly,7.24,29423367.0,36.56,North,12,2019,1 Pre-COVID
+Uttar Pradesh,2020-01-31,Monthly,7.0,30086990.0,37.98,North,1,2020,1 Pre-COVID
+Uttar Pradesh,2020-02-29,Monthly,7.55,29472341.0,37.28,North,2,2020,1 Pre-COVID
+Uttar Pradesh,2020-03-31,Monthly,10.79,27806034.0,36.64,North,3,2020,2 First wave / lockdown
+Uttar Pradesh,2020-04-30,Monthly,22.3,22315500.0,33.67,North,4,2020,2 First wave / lockdown
+Uttar Pradesh,2020-05-31,Monthly,21.2,23450710.0,34.83,North,5,2020,2 First wave / lockdown
+Uttar Pradesh,2020-06-30,Monthly,10.7,28424876.0,36.9,North,6,2020,2 First wave / lockdown
+Uttar Pradesh,2020-07-31,Monthly,8.45,29610813.0,37.57,North,7,2020,3 Recovery
+Uttar Pradesh,2020-08-31,Monthly,8.31,30353155.0,38.05,North,8,2020,3 Recovery
+Uttar Pradesh,2020-09-30,Monthly,7.2,29328825.0,36.73,North,9,2020,3 Recovery
+Uttar Pradesh,2020-10-31,Monthly,7.58,30313121.0,37.91,North,10,2020,3 Recovery
+Uttar Pradesh,2020-11-30,Monthly,6.55,29676887.0,37.885,North,11,2020,3 Recovery
+Uttar Pradesh,2020-12-31,Monthly,6.72,30646255.0,37.86,North,12,2020,3 Recovery
+Uttar Pradesh,2021-01-31,Monthly,5.88,29666084.0,37.18,North,1,2021,3 Recovery
+Uttar Pradesh,2021-02-28,Monthly,6.67,30704109.0,37.87,North,2,2021,3 Recovery
+Uttar Pradesh,2021-03-31,Monthly,7.61,30479762.0,38.45,North,3,2021,3 Recovery
+Uttar Pradesh,2021-04-30,Monthly,9.82,28806457.0,36.97,North,4,2021,4 Second wave
+Uttar Pradesh,2021-05-31,Monthly,11.51,28926168.0,37.71,North,5,2021,4 Second wave
+Uttar Pradesh,2021-06-30,Monthly,9.72,29108949.0,37.49,North,6,2021,4 Second wave
+Uttar Pradesh,2021-07-31,Monthly,6.17,30695075.0,38.23,North,7,2021,4 Second wave
+Uttar Pradesh,2021-08-31,Monthly,7.48,30498704.0,38.51,North,8,2021,5 Post second wave
+Uttar Pradesh,2021-09-30,Monthly,6.32,30529049.0,38.41,North,9,2021,5 Post second wave
+Uttar Pradesh,2021-10-31,Monthly,6.6,30970613.0,38.31,North,10,2021,5 Post second wave
+Uttar Pradesh,2021-11-30,Monthly,6.25,31169789.0,38.32,North,11,2021,5 Post second wave
+Uttar Pradesh,2021-12-31,Monthly,6.39,30502220.0,38.26,North,12,2021,5 Post second wave
+Uttarakhand,2019-01-31,Monthly,5.43,33262227.0,39.86,North,1,2019,1 Pre-COVID
+Uttarakhand,2019-02-28,Monthly,5.36,31611586.0,39.06,North,2,2019,1 Pre-COVID
+Uttarakhand,2019-03-31,Monthly,6.52,32086860.0,39.63,North,3,2019,1 Pre-COVID
+Uttarakhand,2019-04-30,Monthly,5.89,31922419.0,39.24,North,4,2019,1 Pre-COVID
+Uttarakhand,2019-05-31,Monthly,6.98,32851774.0,41.11,North,5,2019,1 Pre-COVID
+Uttarakhand,2019-06-30,Monthly,6.26,31375909.0,39.33,North,6,2019,1 Pre-COVID
+Uttarakhand,2019-07-31,Monthly,6.15,33626080.0,40.93,North,7,2019,1 Pre-COVID
+Uttarakhand,2019-08-31,Monthly,5.58,32855943.0,39.87,North,8,2019,1 Pre-COVID
+Uttarakhand,2019-09-30,Monthly,5.87,31838116.0,39.69,North,9,2019,1 Pre-COVID
+Uttarakhand,2019-10-31,Monthly,5.84,32936191.0,40.86,North,10,2019,1 Pre-COVID
+Uttarakhand,2019-11-30,Monthly,6.14,32987948.0,40.27,North,11,2019,1 Pre-COVID
+Uttarakhand,2019-12-31,Monthly,6.34,31487498.0,39.44,North,12,2019,1 Pre-COVID
+Uttarakhand,2020-01-31,Monthly,5.56,33129543.0,40.71,North,1,2020,1 Pre-COVID
+Uttarakhand,2020-02-29,Monthly,5.56,32088143.0,38.54,North,2,2020,1 Pre-COVID
+Uttarakhand,2020-03-31,Monthly,8.87,31857350.0,39.97,North,3,2020,2 First wave / lockdown
+Uttarakhand,2020-04-30,Monthly,19.98,25125245.0,36.3,North,4,2020,2 First wave / lockdown
+Uttarakhand,2020-05-31,Monthly,17.48,27969555.0,38.91,North,5,2020,2 First wave / lockdown
+Uttarakhand,2020-06-30,Monthly,8.4,31208666.0,39.73,North,6,2020,2 First wave / lockdown
+Uttarakhand,2020-07-31,Monthly,6.66,32015158.0,39.9,North,7,2020,3 Recovery
+Uttarakhand,2020-08-31,Monthly,7.09,32279383.0,40.07,North,8,2020,3 Recovery
+Uttarakhand,2020-09-30,Monthly,5.43,32611498.0,40.03,North,9,2020,3 Recovery
+Uttarakhand,2020-10-31,Monthly,5.34,33806522.0,41.27,North,10,2020,3 Recovery
+Uttarakhand,2020-11-30,Monthly,5.02,33063246.0,39.75,North,11,2020,3 Recovery
+Uttarakhand,2020-12-31,Monthly,6.07,32870364.0,40.5,North,12,2020,3 Recovery
+Uttarakhand,2021-01-31,Monthly,5.29,32444160.0,39.64,North,1,2021,3 Recovery
+Uttarakhand,2021-02-28,Monthly,5.3,33138144.0,40.86,North,2,2021,3 Recovery
+Uttarakhand,2021-03-31,Monthly,5.31,33520261.0,40.17,North,3,2021,3 Recovery
+Uttarakhand,2021-04-30,Monthly,6.8,31711628.0,39.82,North,4,2021,4 Second wave
+Uttarakhand,2021-05-31,Monthly,9.63,30213496.0,38.76,North,5,2021,4 Second wave
+Uttarakhand,2021-06-30,Monthly,7.42,31596035.0,39.61,North,6,2021,4 Second wave
+Uttarakhand,2021-07-31,Monthly,5.29,33582254.0,40.62,North,7,2021,4 Second wave
+Uttarakhand,2021-08-31,Monthly,6.16,31587068.0,38.74,North,8,2021,5 Post second wave
+Uttarakhand,2021-09-30,Monthly,5.45,32195410.0,39.3,North,9,2021,5 Post second wave
+Uttarakhand,2021-10-31,Monthly,5.01,34956471.0,41.67,North,10,2021,5 Post second wave
+Uttarakhand,2021-11-30,Monthly,4.63,34544833.0,42.2,North,11,2021,5 Post second wave
+Uttarakhand,2021-12-31,Monthly,5.83,33042300.0,40.91,North,12,2021,5 Post second wave
+West Bengal,2019-01-31,Monthly,5.3,26972208.0,48.53,East,1,2019,1 Pre-COVID
+West Bengal,2019-02-28,Monthly,5.77,26478035.0,48.07,East,2,2019,1 Pre-COVID
+West Bengal,2019-03-31,Monthly,5.85,26962095.0,48.56,East,3,2019,1 Pre-COVID
+West Bengal,2019-04-30,Monthly,5.38,25887499.0,47.0,East,4,2019,1 Pre-COVID
+West Bengal,2019-05-31,Monthly,5.45,27253615.0,48.75,East,5,2019,1 Pre-COVID
+West Bengal,2019-06-30,Monthly,5.55,27676772.0,49.37,East,6,2019,1 Pre-COVID
+West Bengal,2019-07-31,Monthly,5.47,26543219.0,47.21,East,7,2019,1 Pre-COVID
+West Bengal,2019-08-31,Monthly,5.31,26587465.0,48.12,East,8,2019,1 Pre-COVID
+West Bengal,2019-09-30,Monthly,5.05,26064933.0,46.59,East,9,2019,1 Pre-COVID
+West Bengal,2019-10-31,Monthly,5.14,27984835.0,50.94,East,10,2019,1 Pre-COVID
+West Bengal,2019-11-30,Monthly,5.09,27359366.0,48.49,East,11,2019,1 Pre-COVID
+West Bengal,2019-12-31,Monthly,5.63,26331939.0,48.55,East,12,2019,1 Pre-COVID
+West Bengal,2020-01-31,Monthly,5.12,25598824.0,46.97,East,1,2020,1 Pre-COVID
+West Bengal,2020-02-29,Monthly,5.43,25051705.0,45.85,East,2,2020,1 Pre-COVID
+West Bengal,2020-03-31,Monthly,7.42,25277775.0,46.45,East,3,2020,2 First wave / lockdown
+West Bengal,2020-04-30,Monthly,17.41,21709921.0,44.56,East,4,2020,2 First wave / lockdown
+West Bengal,2020-05-31,Monthly,12.725,21675197.0,44.35,East,5,2020,2 First wave / lockdown
+West Bengal,2020-06-30,Monthly,8.04,25400985.0,47.37,East,6,2020,2 First wave / lockdown
+West Bengal,2020-07-31,Monthly,5.54,26170192.0,47.12,East,7,2020,3 Recovery
+West Bengal,2020-08-31,Monthly,6.09,26776553.5,47.08,East,8,2020,3 Recovery
+West Bengal,2020-09-30,Monthly,5.475,27382915.0,49.04,East,9,2020,3 Recovery
+West Bengal,2020-10-31,Monthly,4.86,27073293.0,48.87,East,10,2020,3 Recovery
+West Bengal,2020-11-30,Monthly,4.54,27022404.5,49.18,East,11,2020,3 Recovery
+West Bengal,2020-12-31,Monthly,5.31,26971516.0,48.1,East,12,2020,3 Recovery
+West Bengal,2021-01-31,Monthly,4.81,26358010.0,47.04,East,1,2021,3 Recovery
+West Bengal,2021-02-28,Monthly,4.71,27901791.0,50.01,East,2,2021,3 Recovery
+West Bengal,2021-03-31,Monthly,4.53,27603968.0,48.44,East,3,2021,3 Recovery
+West Bengal,2021-04-30,Monthly,7.64,26368386.0,49.26,East,4,2021,4 Second wave
+West Bengal,2021-05-31,Monthly,9.46,24531390.0,46.17,East,5,2021,4 Second wave
+West Bengal,2021-06-30,Monthly,6.46,25516584.0,46.91,East,6,2021,4 Second wave
+West Bengal,2021-07-31,Monthly,5.68,27008462.0,48.77,East,7,2021,4 Second wave
+West Bengal,2021-08-31,Monthly,5.0,26313157.0,47.66,East,8,2021,5 Post second wave
+West Bengal,2021-09-30,Monthly,5.16,27657472.0,49.29,East,9,2021,5 Post second wave
+West Bengal,2021-10-31,Monthly,4.53,25031905.0,45.59,East,10,2021,5 Post second wave
+West Bengal,2021-11-30,Monthly,5.25,26342197.0,47.84,East,11,2021,5 Post second wave
+West Bengal,2021-12-31,Monthly,5.67,27276848.0,49.37,East,12,2021,5 Post second wave
